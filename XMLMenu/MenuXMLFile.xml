@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Home>
+  <!-- Hr  Person(employee) with recruitment and leave-->
+  <Role id="1">
+    <Menu Text="Recruitment" url="javascript: void(0);">
+      <Submenu Text="Recrument Home" url="~/Pages/hr_home.aspx"/>
+      <SubMenu text="All Application" url="~/Pages/AllApplicationTracker.aspx"/>
+      <SubMenu text="Search Application" url="~/Pages/Recruitment_tracker.aspx"/>
+   </Menu>
+    <Menu Text="Psychometric Module" url="javascript: void(0);">
+      <Submenu Text="Psychometric Report" url="~/PsychometricModule/CTestReportSearch.aspx"/>
+      
+    </Menu>
+    <Menu Text="Leave Masters" url="javascript: void(0);">
+      <Submenu Text="Holiday Master" url="~/LeaveModule/Master/HolidayMaster.aspx"/>
+      <SubMenu text="Leave Type Master" url="~/LeaveModule/Master/LeaveTypeMaster.aspx"/>
+      <SubMenu text="Leave Balance Master" url="~/LeaveModule/Master/LeaveBalanceMaster.aspx"/>
+    </Menu>
+    <Menu Text="Personal" url="javascript: void(0);">
+      <Submenu Text="Leave Apply" url="~/LeaveModule/Applications/HR/LeaveApplication.aspx"/>
+      <SubMenu text="Leave Application History" url="~/LeaveModule/Applications/HR/LeaveApplicationHistory.aspx"/>
+      <SubMenu text="Leave Balance" url="~/LeaveModule/Lbalance/HR/CanLeaveBalance.aspx"/>
+      <SubMenu text="Holiday List" url="~/LeaveModule/Common/HR/HoliDayList.aspx"/>
+    </Menu>
+    <Menu Text="Compensatory Off" url="javascript: void(0);">
+      <Submenu Text="Comp Off Balance Apply" url="~/LeaveModule/Applications/HR/CompOffApply.aspx"/>
+      <SubMenu text="Comp Off Balance History" url="~/LeaveModule/Applications/HR/CompOffHistory.aspx"/>
+      <SubMenu text="Avail Comp Off" url="~/LeaveModule/Applications/HR/AvailCompOff.aspx"/>
+
+    </Menu>
+    <Menu Text="View Leave Applications" url="javascript: void(0);">
+      <Submenu Text="View Leave Applications" url="~/LeaveModule/View/ViewLeaveApplications.aspx"/>
+      <SubMenu text="View Leave All Leave Balance" url="~/LeaveModule/View/AllLeaveBalance.aspx"/>
+    </Menu>
+  </Role>
+  <!-- Hr  Person(employee) with recruitment -->
+  <Role id="2">
+    <Menu Text="Recruitment" url="javascript: void(0);">
+      <Submenu Text="Recrument Home" url="~/Pages/hr_home.aspx"/>
+      <SubMenu text="All Application" url="~/Pages/AllApplicationTracker.aspx"/>
+      <SubMenu text="Search Application" url="~/Pages/Recruitment_tracker.aspx"/>
+    </Menu>
+    <Menu Text="Psychometric Module" url="javascript: void(0);">
+      <Submenu Text="Psychometric Report" url="~/PsychometricModule/CTestReportSearch.aspx"/>
+
+    </Menu>
+    <Menu Text="Personal" url="javascript: void(0);">
+      <Submenu Text="Leave Apply" url="~/LeaveModule/Applications/HR/LeaveApplication.aspx"/>
+      <SubMenu text="Leave Application History" url="~/LeaveModule/Applications/HR/LeaveApplicationHistory.aspx"/>
+      <SubMenu text="Leave Balance" url="~/LeaveModule/Lbalance/HR/CanLeaveBalance.aspx"/>
+      <SubMenu text="Holiday List" url="~/LeaveModule/Common/HR/HoliDayList.aspx"/>
+    </Menu>
+    <Menu Text="Compensatory Off" url="javascript: void(0);">
+      <Submenu Text="Comp Off Balance Apply" url="~/LeaveModule/Applications/HR/CompOffApply.aspx"/>
+      <SubMenu text="Comp Off Balance History" url="~/LeaveModule/Applications/HR/CompOffHistory.aspx"/>
+      <SubMenu text="Avail Comp Off" url="~/LeaveModule/Applications/HR/AvailCompOff.aspx"/>
+     
+    </Menu>
+    
+
+    
+  </Role>
+  <!-- Hr  Person(employee) with  leave-->
+  <Role id="3">
+   
+    <Menu Text="Leave Masters" url="javascript: void(0);">
+      <Submenu Text="Holiday Master" url="~/LeaveModule/Master/HolidayMaster.aspx"/>
+      <SubMenu text="Leave Type Master" url="~/LeaveModule/Master/LeaveTypeMaster.aspx"/>
+      <SubMenu text="Leave Balance Master" url="~/LeaveModule/Master/LeaveBalanceMaster.aspx"/>
+    </Menu>
+    <Menu Text="Personal" url="javascript: void(0);">
+      <Submenu Text="Leave Apply" url="~/LeaveModule/Applications/HR/LeaveApplication.aspx"/>
+      <SubMenu text="Leave Application History" url="~/LeaveModule/Applications/HR/LeaveApplicationHistory.aspx"/>
+      <SubMenu text="Leave Balance" url="~/LeaveModule/Lbalance/HR/CanLeaveBalance.aspx"/>
+      <SubMenu text="Holiday List" url="~/LeaveModule/Common/HR/HoliDayList.aspx"/>
+    </Menu>
+    <Menu Text="Compensatory Off" url="javascript: void(0);">
+      <Submenu Text="Comp Off Balance Apply" url="~/LeaveModule/Applications/HR/CompOffApply.aspx"/>
+      <SubMenu text="Comp Off Balance History" url="~/LeaveModule/Applications/HR/CompOffHistory.aspx"/>
+      <SubMenu text="Avail Comp Off" url="~/LeaveModule/Applications/HR/AvailCompOff.aspx"/>
+
+    </Menu>
+    <Menu Text="View Leave Applications" url="javascript: void(0);">
+      <Submenu Text="View Leave Applications" url="~/LeaveModule/View/ViewLeaveApplications.aspx"/>
+      <SubMenu text="View Leave All Leave Balance" url="~/LeaveModule/View/AllLeaveBalance.aspx"/>
+    </Menu>
+  </Role>
+
+
+  <!-- Hr  Person(Reporting employee) with recruitment and leave-->
+  <Role id="4">
+    <Menu Text="Recruitment" url="javascript: void(0);">
+      <Submenu Text="Recrument Home" url="~/Pages/hr_home.aspx"/>
+      <SubMenu text="All Application" url="~/Pages/AllApplicationTracker.aspx"/>
+      <SubMenu text="Search Application" url="~/Pages/Recruitment_tracker.aspx"/>
+    </Menu>
+    <Menu Text="Psychometric Module" url="javascript: void(0);">
+      <Submenu Text="Psychometric Report" url="~/PsychometricModule/CTestReportSearch.aspx"/>
+
+    </Menu>
+    <Menu Text="Leave Masters" url="javascript: void(0);">
+      <Submenu Text="Holiday Master" url="~/LeaveModule/Master/HolidayMaster.aspx"/>
+      <SubMenu text="Leave Type Master" url="~/LeaveModule/Master/LeaveTypeMaster.aspx"/>
+      <SubMenu text="Leave Balance Master" url="~/LeaveModule/Master/LeaveBalanceMaster.aspx"/>
+    </Menu>
+    <Menu Text="Personal" url="javascript: void(0);">
+      <Submenu Text="Leave Apply" url="~/LeaveModule/Applications/HR/LeaveApplication.aspx"/>
+      <SubMenu text="Leave Application History" url="~/LeaveModule/Applications/HR/LeaveApplicationHistory.aspx"/>
+      <SubMenu text="Leave Balance" url="~/LeaveModule/Lbalance/HR/CanLeaveBalance.aspx"/>
+      <SubMenu text="Subordinate's Leave Balance" url="~/LeaveModule/Lbalance/HR/SubordinateBalance.aspx"/>
+      <SubMenu text="Holiday List" url="~/LeaveModule/Common/HR/HoliDayList.aspx"/>
+    </Menu>
+    <Menu Text="Leave Request" url="javascript: void(0);">
+      <Submenu Text="Leave Request" url="~/LeaveModule/Request/HR/LeaveRequests.aspx"/>
+      <Submenu Text="Comp Off Balance Request" url="~/LeaveModule/Request/HR/CompOffRequest.aspx"/>
+      
+    </Menu>
+    <Menu Text="Unauthorized Leave" url="javascript: void(0);">
+      <Submenu Text="Unauthorized Leave Apply" url="~/LeaveModule/Applications/HR/OApply.aspx"/>
+      <Submenu Text="Unauthorized Leave History" url="~/LeaveModule/Applications/HR/OApplyHistory.aspx"/>
+
+    </Menu>
+    <Menu Text="View Leave Applications" url="javascript: void(0);">
+      <Submenu Text="View Leave Applications" url="~/LeaveModule/View/ViewLeaveApplications.aspx"/>
+      <SubMenu text="View Leave All Leave Balance" url="~/LeaveModule/View/AllLeaveBalance.aspx"/>
+    </Menu>
+  </Role>
+  <!-- Hr  Person(Reporting employee) with recruitment -->
+  <Role id="5">
+    <Menu Text="Recruitment" url="javascript: void(0);">
+      <Submenu Text="Recrument Home" url="~/Pages/hr_home.aspx"/>
+      <SubMenu text="All Application" url="~/Pages/AllApplicationTracker.aspx"/>
+      <SubMenu text="Search Application" url="~/Pages/Recruitment_tracker.aspx"/>
+    </Menu>
+    <Menu Text="Psychometric Module" url="javascript: void(0);">
+      <Submenu Text="Psychometric Report" url="~/PsychometricModule/CTestReportSearch.aspx"/>
+
+    </Menu>
+    <Menu Text="Personal" url="javascript: void(0);">
+      <Submenu Text="Leave Apply" url="~/LeaveModule/Applications/HR/LeaveApplication.aspx"/>
+      <SubMenu text="Leave Application History" url="~/LeaveModule/Applications/HR/LeaveApplicationHistory.aspx"/>
+      <SubMenu text="Leave Balance" url="~/LeaveModule/Lbalance/HR/CanLeaveBalance.aspx"/>
+      <SubMenu text="Subordinate's Leave Balance" url="~/LeaveModule/Lbalance/HR/SubordinateBalance.aspx"/>
+      <SubMenu text="Holiday List" url="~/LeaveModule/Common/HR/HoliDayList.aspx"/>
+    </Menu>
+    <Menu Text="Leave Request" url="javascript: void(0);">
+      <Submenu Text="Leave Request" url="~/LeaveModule/Request/HR/LeaveRequests.aspx"/>
+      <Submenu Text="Comp Off Balance Request" url="~/LeaveModule/Request/HR/CompOffRequest.aspx"/>
+
+    </Menu>
+    <Menu Text="Unauthorized Leave" url="javascript: void(0);">
+      <Submenu Text="Unauthorized Leave Apply" url="~/LeaveModule/Applications/HR/OApply.aspx"/>
+      <Submenu Text="Unauthorized Leave History" url="~/LeaveModule/Applications/HR/OApplyHistory.aspx"/>
+
+    </Menu>
+
+
+
+  </Role>
+  <!-- Hr  Person(Reporting employee) with  leave-->
+  <Role id="6">
+
+    <Menu Text="Leave Masters" url="javascript: void(0);">
+      <Submenu Text="Holiday Master" url="~/LeaveModule/Master/HolidayMaster.aspx"/>
+      <SubMenu text="Leave Type Master" url="~/LeaveModule/Master/LeaveTypeMaster.aspx"/>
+      <SubMenu text="Leave Balance Master" url="~/LeaveModule/Master/LeaveBalanceMaster.aspx"/>
+    </Menu>
+    <Menu Text="Personal" url="javascript: void(0);">
+      <Submenu Text="Leave Apply" url="~/LeaveModule/Applications/HR/LeaveApplication.aspx"/>
+      <SubMenu text="Leave Application History" url="~/LeaveModule/Applications/HR/LeaveApplicationHistory.aspx"/>
+      <SubMenu text="Leave Balance" url="~/LeaveModule/Lbalance/HR/CanLeaveBalance.aspx"/>
+      <SubMenu text="Subordinate's Leave Balance" url="~/LeaveModule/Lbalance/HR/SubordinateBalance.aspx"/>
+      <SubMenu text="Holiday List" url="~/LeaveModule/Common/HR/HoliDayList.aspx"/>
+    </Menu>
+    <Menu Text="Leave Request" url="javascript: void(0);">
+      <Submenu Text="Leave Request" url="~/LeaveModule/Request/HR/LeaveRequests.aspx"/>
+      <Submenu Text="Comp Off Balance Request" url="~/LeaveModule/Request/HR/CompOffRequest.aspx"/>
+
+    </Menu>
+    <Menu Text="Unauthorized Leave" url="javascript: void(0);">
+      <Submenu Text="Unauthorized Leave Apply" url="~/LeaveModule/Applications/HR/OApply.aspx"/>
+      <Submenu Text="Unauthorized Leave History" url="~/LeaveModule/Applications/HR/OApplyHistory.aspx"/>
+
+    </Menu>
+    <Menu Text="View Leave Applications" url="javascript: void(0);">
+      <Submenu Text="View Leave Applications" url="~/LeaveModule/View/ViewLeaveApplications.aspx"/>
+      <SubMenu text="View Leave All Leave Balance" url="~/LeaveModule/View/AllLeaveBalance.aspx"/>
+    </Menu>
+  </Role>
+  <!-- For MD Sir with recruitment and leave-->
+  <Role id="8">
+    <Menu Text="Recruitment" url="javascript: void(0);">
+      <Submenu Text="Recrument Home" url="~/Pages/hr_home.aspx"/>
+      <SubMenu text="All Application" url="~/Pages/AllApplicationTracker.aspx"/>
+      <SubMenu text="Search Application" url="~/Pages/Recruitment_tracker.aspx"/>
+    </Menu>
+    <Menu Text="Psychometric Module" url="javascript: void(0);">
+      <Submenu Text="Psychometric Report" url="~/PsychometricModule/CTestReportSearch.aspx"/>
+
+    </Menu>
+    <Menu Text="Leave Masters" url="javascript: void(0);">
+      <Submenu Text="Holiday Master" url="~/LeaveModule/Master/HolidayMaster.aspx"/>
+      <SubMenu text="Leave Type Master" url="~/LeaveModule/Master/LeaveTypeMaster.aspx"/>
+      <SubMenu text="Leave Balance Master" url="~/LeaveModule/Master/LeaveBalanceMaster.aspx"/>
+    </Menu>
+    <Menu Text="Personal" url="javascript: void(0);">
+      <Submenu Text="Leave Apply" url="~/LeaveModule/Applications/HR/LeaveApplication.aspx"/>
+      <SubMenu text="Leave Application History" url="~/LeaveModule/Applications/HR/LeaveApplicationHistory.aspx"/>
+      <SubMenu text="Leave Balance" url="~/LeaveModule/Lbalance/HR/CanLeaveBalance.aspx"/>
+      <SubMenu text="Subordinate's Leave Balance" url="~/LeaveModule/Lbalance/HR/SubordinateBalance.aspx"/>
+      <SubMenu text="Holiday List" url="~/LeaveModule/Common/HR/HoliDayList.aspx"/>
+    </Menu>
+    <Menu Text="Leave Request" url="javascript: void(0);">
+      <Submenu Text="Leave Request" url="~/LeaveModule/Request/HR/SLeaveRequests.aspx"/>
+      <Submenu Text="All Leave Request" url="~/LeaveModule/Request/HR/LeaveRequests.aspx"/>
+      <Submenu Text="Comp Off Balance Request" url="~/LeaveModule/Request/HR/CompOffRequest.aspx"/>
+
+    </Menu>
+    <Menu Text="Unauthorized Leave" url="javascript: void(0);">
+      <Submenu Text="Unauthorized Leave Apply" url="~/LeaveModule/Applications/HR/OApply.aspx"/>
+      <Submenu Text="Unauthorized Leave History" url="~/LeaveModule/Applications/HR/OApplyHistory.aspx"/>
+
+    </Menu>
+    <Menu Text="View Leave Applications" url="javascript: void(0);">
+      <Submenu Text="View Leave Applications" url="~/LeaveModule/View/ViewLeaveApplications.aspx"/>
+      <SubMenu text="View Leave All Leave Balance" url="~/LeaveModule/View/AllLeaveBalance.aspx"/>
+    </Menu>
+  </Role>
+  
+</Home>

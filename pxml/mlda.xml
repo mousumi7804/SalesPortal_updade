@@ -1,0 +1,528 @@
+<article>
+  <para>
+    <tbody>
+      <row>
+        <entry>
+          <para>Order No</para>
+        </entry>
+        <entry>
+          <para>Order Date</para>
+        </entry>
+        <entry>
+          <para>Order Series</para>
+        </entry>
+        <entry>
+          <para>Party Name</para>
+        </entry>
+        <entry>
+          <para>Party Code</para>
+        </entry>
+        <entry>
+          <para>Item Name</para>
+        </entry>
+        <entry>
+          <para>Item Code</para>
+        </entry>
+        <entry>
+          <para>Quantity</para>
+        </entry>
+        <entry>
+          <para>Remarks</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>40536-Ashok Singh</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MLDA</para>
+        </entry>
+        <entry>
+          <para>BAIDYANATH PHARMECY </para>
+        </entry>
+        <entry>
+          <para>MLDA-B11282</para>
+        </entry>
+        <entry>
+          <para>AMIRID-O TABLETS</para>
+        </entry>
+        <entry>
+          <para>A009</para>
+        </entry>
+        <entry>
+          <para>20</para>
+        </entry>
+        <entry>
+          <para>OK</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>40536-Ashok Singh</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MLDA</para>
+        </entry>
+        <entry>
+          <para>BAIDYANATH PHARMECY </para>
+        </entry>
+        <entry>
+          <para>MLDA-B11282</para>
+        </entry>
+        <entry>
+          <para>NILI PAIN GEL</para>
+        </entry>
+        <entry>
+          <para>N002</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+        <entry>
+          <para>OK</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>40536-Ashok Singh</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MLDA</para>
+        </entry>
+        <entry>
+          <para>BAIDYANATH PHARMECY </para>
+        </entry>
+        <entry>
+          <para>MLDA-B11282</para>
+        </entry>
+        <entry>
+          <para>PEPTANIL RDSR</para>
+        </entry>
+        <entry>
+          <para>P008</para>
+        </entry>
+        <entry>
+          <para>30</para>
+        </entry>
+        <entry>
+          <para>OK</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>40543-Bishnu Ghosh</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MLDA</para>
+        </entry>
+        <entry>
+          <para>DAYITA MEDICAL</para>
+        </entry>
+        <entry>
+          <para>MLDA-D13385</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>25</para>
+        </entry>
+        <entry>
+          <para>OK </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>40546-Swapan Kumar Mondal</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MLDA</para>
+        </entry>
+        <entry>
+          <para>SARDAR PHARMACY</para>
+        </entry>
+        <entry>
+          <para>MLDA-FJ21970</para>
+        </entry>
+        <entry>
+          <para>HELMOPAR SUSPENSION</para>
+        </entry>
+        <entry>
+          <para>H002</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>40547-Ashok Singh</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MLDA</para>
+        </entry>
+        <entry>
+          <para>BLUE BELL</para>
+        </entry>
+        <entry>
+          <para>MLDA-FJ22190</para>
+        </entry>
+        <entry>
+          <para>CITRO 100 ML</para>
+        </entry>
+        <entry>
+          <para>C001</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>40547-Ashok Singh</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MLDA</para>
+        </entry>
+        <entry>
+          <para>BLUE BELL</para>
+        </entry>
+        <entry>
+          <para>MLDA-FJ22190</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>40550-Ashok Singh</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MLDA</para>
+        </entry>
+        <entry>
+          <para>MEHABUB MEDICAL</para>
+        </entry>
+        <entry>
+          <para>MLDA-FJ34074</para>
+        </entry>
+        <entry>
+          <para>CATAREX ROOTS</para>
+        </entry>
+        <entry>
+          <para>C016</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+        <entry>
+          <para>pk</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>40551-Ashok Singh</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MLDA</para>
+        </entry>
+        <entry>
+          <para>LALIB MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>MLDA-FJ34075</para>
+        </entry>
+        <entry>
+          <para>TABAZI</para>
+        </entry>
+        <entry>
+          <para>T001</para>
+        </entry>
+        <entry>
+          <para>100</para>
+        </entry>
+        <entry>
+          <para> C series</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>40554-Kartik Sarkar</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MLDA</para>
+        </entry>
+        <entry>
+          <para>GOPAL MEDICAL</para>
+        </entry>
+        <entry>
+          <para>MLDA-G11146</para>
+        </entry>
+        <entry>
+          <para>NILI PAIN TABLETS</para>
+        </entry>
+        <entry>
+          <para>N003</para>
+        </entry>
+        <entry>
+          <para>25</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>40560-Swapan Kumar Mondal</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MLDA</para>
+        </entry>
+        <entry>
+          <para>L.L.MEDICARE   UNIT </para>
+        </entry>
+        <entry>
+          <para>MLDA-L10555</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>19</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>40585-Kartik Sarkar</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MLDA</para>
+        </entry>
+        <entry>
+          <para>M/S MAA MEDICAL AGENCY</para>
+        </entry>
+        <entry>
+          <para>MLDA-M15304</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME DROPS</para>
+        </entry>
+        <entry>
+          <para>C004</para>
+        </entry>
+        <entry>
+          <para>64</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>40589-Mithun Dutta</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MLDA</para>
+        </entry>
+        <entry>
+          <para>NEW MEDICINE</para>
+        </entry>
+        <entry>
+          <para>MLDA-N14548</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+        <entry>
+          <para>Ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>40591-Bijay Sutradhar</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MLDA</para>
+        </entry>
+        <entry>
+          <para>PALSON MEDICAL AGENCY </para>
+        </entry>
+        <entry>
+          <para>MLDA-P10748</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>40594-Bishnu Ghosh</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MLDA</para>
+        </entry>
+        <entry>
+          <para>RIPAN MEDICAL </para>
+        </entry>
+        <entry>
+          <para>MLDA-R11968</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>25</para>
+        </entry>
+        <entry>
+          <para>OK </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>40594-Bishnu Ghosh</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MLDA</para>
+        </entry>
+        <entry>
+          <para>RIPAN MEDICAL </para>
+        </entry>
+        <entry>
+          <para>MLDA-R11968</para>
+        </entry>
+        <entry>
+          <para>LULICONAZOLE (10 GMS)</para>
+        </entry>
+        <entry>
+          <para>L003</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+        <entry>
+          <para>OK </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>40594-Bishnu Ghosh</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MLDA</para>
+        </entry>
+        <entry>
+          <para>RIPAN MEDICAL </para>
+        </entry>
+        <entry>
+          <para>MLDA-R11968</para>
+        </entry>
+        <entry>
+          <para>CATAREX LS</para>
+        </entry>
+        <entry>
+          <para>C017</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+        <entry>
+          <para>OK </para>
+        </entry>
+      </row>
+    </tbody>
+  </para>
+</article>

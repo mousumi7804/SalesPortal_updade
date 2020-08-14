@@ -1,0 +1,4062 @@
+<article>
+  <para>
+    <tbody>
+      <row>
+        <entry>
+          <para>Order No</para>
+        </entry>
+        <entry>
+          <para>Order Date</para>
+        </entry>
+        <entry>
+          <para>Order Series</para>
+        </entry>
+        <entry>
+          <para>Party Name</para>
+        </entry>
+        <entry>
+          <para>Party Code</para>
+        </entry>
+        <entry>
+          <para>Item Name</para>
+        </entry>
+        <entry>
+          <para>Item Code</para>
+        </entry>
+        <entry>
+          <para>Quantity</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>740-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>ARJUNS CARE</para>
+        </entry>
+        <entry>
+          <para>NWLP-A10128</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>740-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>ARJUNS CARE</para>
+        </entry>
+        <entry>
+          <para>NWLP-A10128</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>741-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>ADELINE MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-A10356</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>741-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>ADELINE MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-A10356</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>742-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>AGARWAL MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-A11335</para>
+        </entry>
+        <entry>
+          <para>CATAREX-AT </para>
+        </entry>
+        <entry>
+          <para>C013</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>742-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>AGARWAL MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-A11335</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>742-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>AGARWAL MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-A11335</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>742-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>AGARWAL MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-A11335</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>743-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>ALOKA PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-A11512</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>743-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>ALOKA PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-A11512</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>744-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>ASHUTOSH MEDICO</para>
+        </entry>
+        <entry>
+          <para>NWLP-A11528</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>744-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>ASHUTOSH MEDICO</para>
+        </entry>
+        <entry>
+          <para>NWLP-A11528</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>744-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>ASHUTOSH MEDICO</para>
+        </entry>
+        <entry>
+          <para>NWLP-A11528</para>
+        </entry>
+        <entry>
+          <para>PAINTEX </para>
+        </entry>
+        <entry>
+          <para>P001</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>745-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>BOSE MEDICO</para>
+        </entry>
+        <entry>
+          <para>NWLP-B10411</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>745-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>BOSE MEDICO</para>
+        </entry>
+        <entry>
+          <para>NWLP-B10411</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>746-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>BENGAL MEIDCAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-B10423</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>746-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>BENGAL MEIDCAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-B10423</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>20</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>746-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>BENGAL MEIDCAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-B10423</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>28</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>747-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>BANERJEE PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-B11026</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>747-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>BANERJEE PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-B11026</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>747-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>BANERJEE PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-B11026</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>747-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>BANERJEE PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-B11026</para>
+        </entry>
+        <entry>
+          <para>PAINTEX </para>
+        </entry>
+        <entry>
+          <para>P001</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>748-Debashis Pal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>BENGAL MEDICAL</para>
+        </entry>
+        <entry>
+          <para>NWLP-B11118</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME DROPS </para>
+        </entry>
+        <entry>
+          <para>C004</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>749-Pradip Jash</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>B.AND K. STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-B11235</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME NXG </para>
+        </entry>
+        <entry>
+          <para>C019</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>749-Pradip Jash</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>B.AND K. STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-B11235</para>
+        </entry>
+        <entry>
+          <para>CATAREX LS </para>
+        </entry>
+        <entry>
+          <para>C017</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>749-Pradip Jash</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>B.AND K. STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-B11235</para>
+        </entry>
+        <entry>
+          <para>CATAREX-AT </para>
+        </entry>
+        <entry>
+          <para>C013</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>749-Pradip Jash</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>B.AND K. STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-B11235</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>750-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>BHBABANIPUR BLUE PRINT</para>
+        </entry>
+        <entry>
+          <para>NWLP-B11266</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>750-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>BHBABANIPUR BLUE PRINT</para>
+        </entry>
+        <entry>
+          <para>NWLP-B11266</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>751-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>BANSDRONI BLUE PRINT</para>
+        </entry>
+        <entry>
+          <para>NWLP-B11386</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>752-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>BALAJI MEDICAL</para>
+        </entry>
+        <entry>
+          <para>NWLP-B11593</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>752-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>BALAJI MEDICAL</para>
+        </entry>
+        <entry>
+          <para>NWLP-B11593</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>752-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>BALAJI MEDICAL</para>
+        </entry>
+        <entry>
+          <para>NWLP-B11593</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>753-Santanu Mazumder</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>BRISTI MEDICAL</para>
+        </entry>
+        <entry>
+          <para>NWLP-B11594</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME NXG </para>
+        </entry>
+        <entry>
+          <para>C019</para>
+        </entry>
+        <entry>
+          <para>11</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>754-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>CALCUTTA CHEMIST CORNER</para>
+        </entry>
+        <entry>
+          <para>NWLP-C10369</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G002</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>754-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>CALCUTTA CHEMIST CORNER</para>
+        </entry>
+        <entry>
+          <para>NWLP-C10369</para>
+        </entry>
+        <entry>
+          <para>CHEW LMF </para>
+        </entry>
+        <entry>
+          <para>C023</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>754-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>CALCUTTA CHEMIST CORNER</para>
+        </entry>
+        <entry>
+          <para>NWLP-C10369</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>754-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>CALCUTTA CHEMIST CORNER</para>
+        </entry>
+        <entry>
+          <para>NWLP-C10369</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>20</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>755-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>CHAKRABORTY MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-C10813</para>
+        </entry>
+        <entry>
+          <para>PAINTEX </para>
+        </entry>
+        <entry>
+          <para>P001</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>755-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>CHAKRABORTY MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-C10813</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>756-Sandip Srivastav</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>DISHA</para>
+        </entry>
+        <entry>
+          <para>NWLP-D10440</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME ROOTS </para>
+        </entry>
+        <entry>
+          <para>C021</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>757-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>DEY MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-D10466</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>757-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>DEY MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-D10466</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>757-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>DEY MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-D10466</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>758-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>DUTTA MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-D11724</para>
+        </entry>
+        <entry>
+          <para>PAINTEX </para>
+        </entry>
+        <entry>
+          <para>P001</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>759-Sandip Srivastav</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>DILKHUSA BLUE PRINT</para>
+        </entry>
+        <entry>
+          <para>NWLP-D12790</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>759-Sandip Srivastav</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>DILKHUSA BLUE PRINT</para>
+        </entry>
+        <entry>
+          <para>NWLP-D12790</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME NXG </para>
+        </entry>
+        <entry>
+          <para>C019</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>759-Sandip Srivastav</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>DILKHUSA BLUE PRINT</para>
+        </entry>
+        <entry>
+          <para>NWLP-D12790</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME ROOTS </para>
+        </entry>
+        <entry>
+          <para>C021</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>759-Sandip Srivastav</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>DILKHUSA BLUE PRINT</para>
+        </entry>
+        <entry>
+          <para>NWLP-D12790</para>
+        </entry>
+        <entry>
+          <para>TABAZI </para>
+        </entry>
+        <entry>
+          <para>T001</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>760-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>FAIR AND CO.</para>
+        </entry>
+        <entry>
+          <para>NWLP-F10076</para>
+        </entry>
+        <entry>
+          <para>PAINTEX </para>
+        </entry>
+        <entry>
+          <para>P001</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>760-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>FAIR AND CO.</para>
+        </entry>
+        <entry>
+          <para>NWLP-F10076</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>761-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>GHOSH MDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-G10250</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>761-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>GHOSH MDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-G10250</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>762-Debashis Pal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>G.K. MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>NWLP-G10266</para>
+        </entry>
+        <entry>
+          <para>CATAREX-AT </para>
+        </entry>
+        <entry>
+          <para>C013</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>762-Debashis Pal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>G.K. MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>NWLP-G10266</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS </para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>762-Debashis Pal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>G.K. MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>NWLP-G10266</para>
+        </entry>
+        <entry>
+          <para>CATAREX LS </para>
+        </entry>
+        <entry>
+          <para>C017</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>763-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>JEEVAN DEEP</para>
+        </entry>
+        <entry>
+          <para>NWLP-J10268</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>763-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>JEEVAN DEEP</para>
+        </entry>
+        <entry>
+          <para>NWLP-J10268</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>764-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>JEEVANJYOTI</para>
+        </entry>
+        <entry>
+          <para>NWLP-J10655</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>764-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>JEEVANJYOTI</para>
+        </entry>
+        <entry>
+          <para>NWLP-J10655</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>764-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>JEEVANJYOTI</para>
+        </entry>
+        <entry>
+          <para>NWLP-J10655</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>765-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>KUNDU PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-K10690</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>765-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>KUNDU PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-K10690</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>766-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>LONG LIFE</para>
+        </entry>
+        <entry>
+          <para>NWLP-L10200</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS </para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>40</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>767-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>LOKENATH MEDICARE</para>
+        </entry>
+        <entry>
+          <para>NWLP-L10250</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>768-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>LIFE LINE</para>
+        </entry>
+        <entry>
+          <para>NWLP-L10350</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>768-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>LIFE LINE</para>
+        </entry>
+        <entry>
+          <para>NWLP-L10350</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>768-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>LIFE LINE</para>
+        </entry>
+        <entry>
+          <para>NWLP-L10350</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME NXG </para>
+        </entry>
+        <entry>
+          <para>C019</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>768-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>LIFE LINE</para>
+        </entry>
+        <entry>
+          <para>NWLP-L10350</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>769-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>LANCE DOWN</para>
+        </entry>
+        <entry>
+          <para>NWLP-L10607</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>770-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MAHAMAYA MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>NWLP-M10521</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>770-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MAHAMAYA MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>NWLP-M10521</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>771-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MEDI PLUS</para>
+        </entry>
+        <entry>
+          <para>NWLP-M10813</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>771-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MEDI PLUS</para>
+        </entry>
+        <entry>
+          <para>NWLP-M10813</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>772-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MALLICK PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-M10826</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>773-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MEDI POINT</para>
+        </entry>
+        <entry>
+          <para>NWLP-M10863</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>774-Pradip Jash</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MEDICURE</para>
+        </entry>
+        <entry>
+          <para>NWLP-M10981</para>
+        </entry>
+        <entry>
+          <para>CATAREX LS </para>
+        </entry>
+        <entry>
+          <para>C017</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>774-Pradip Jash</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MEDICURE</para>
+        </entry>
+        <entry>
+          <para>NWLP-M10981</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME DROPS </para>
+        </entry>
+        <entry>
+          <para>C004</para>
+        </entry>
+        <entry>
+          <para>11</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>774-Pradip Jash</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MEDICURE</para>
+        </entry>
+        <entry>
+          <para>NWLP-M10981</para>
+        </entry>
+        <entry>
+          <para>PEPTANIL PDSR </para>
+        </entry>
+        <entry>
+          <para>P007</para>
+        </entry>
+        <entry>
+          <para>8</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>775-Debasish Chowdhery</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MENOKA MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-M11169</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>775-Debasish Chowdhery</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MENOKA MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-M11169</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>775-Debasish Chowdhery</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MENOKA MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-M11169</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>776-Debasish Chowdhery</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MOU MEDICAL CENTER</para>
+        </entry>
+        <entry>
+          <para>NWLP-M11170</para>
+        </entry>
+        <entry>
+          <para>CARMOLAX ROOTS [POWDER] </para>
+        </entry>
+        <entry>
+          <para>C015</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>776-Debasish Chowdhery</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MOU MEDICAL CENTER</para>
+        </entry>
+        <entry>
+          <para>NWLP-M11170</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>777-Debasish Chowdhery</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MENOKA MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>NWLP-M11173</para>
+        </entry>
+        <entry>
+          <para>PAINTEX </para>
+        </entry>
+        <entry>
+          <para>P001</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>777-Debasish Chowdhery</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MENOKA MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>NWLP-M11173</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>18</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>777-Debasish Chowdhery</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MENOKA MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>NWLP-M11173</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>777-Debasish Chowdhery</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MENOKA MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>NWLP-M11173</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>8</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>778-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MAHAVIR MEDICALS</para>
+        </entry>
+        <entry>
+          <para>NWLP-M12269</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>778-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MAHAVIR MEDICALS</para>
+        </entry>
+        <entry>
+          <para>NWLP-M12269</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>779-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>M.B.MEDICAL STORE</para>
+        </entry>
+        <entry>
+          <para>NWLP-M12466</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>779-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>M.B.MEDICAL STORE</para>
+        </entry>
+        <entry>
+          <para>NWLP-M12466</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>780-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MED LIFE</para>
+        </entry>
+        <entry>
+          <para>NWLP-M13434</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>780-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MED LIFE</para>
+        </entry>
+        <entry>
+          <para>NWLP-M13434</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>781-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MAA SANTOSHI BLUE PRINT</para>
+        </entry>
+        <entry>
+          <para>NWLP-M13465</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>781-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MAA SANTOSHI BLUE PRINT</para>
+        </entry>
+        <entry>
+          <para>NWLP-M13465</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>781-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>MAA SANTOSHI BLUE PRINT</para>
+        </entry>
+        <entry>
+          <para>NWLP-M13465</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>782-Debasish Chowdhery</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>M/S N.SAHA AGENCY</para>
+        </entry>
+        <entry>
+          <para>NWLP-M13586</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>120</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>782-Debasish Chowdhery</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>M/S N.SAHA AGENCY</para>
+        </entry>
+        <entry>
+          <para>NWLP-M13586</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>112</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>782-Debasish Chowdhery</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>M/S N.SAHA AGENCY</para>
+        </entry>
+        <entry>
+          <para>NWLP-M13586</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>168</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>783-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>NEW ALIPUR BLUE PRINT</para>
+        </entry>
+        <entry>
+          <para>NWLP-N10411</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>783-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>NEW ALIPUR BLUE PRINT</para>
+        </entry>
+        <entry>
+          <para>NWLP-N10411</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>784-Pradip Jash</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>NIBEDITA PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-N10965</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>785-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>NEW PANACEIA</para>
+        </entry>
+        <entry>
+          <para>NWLP-N11158</para>
+        </entry>
+        <entry>
+          <para>CATAREX-T </para>
+        </entry>
+        <entry>
+          <para>C014</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>785-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>NEW PANACEIA</para>
+        </entry>
+        <entry>
+          <para>NWLP-N11158</para>
+        </entry>
+        <entry>
+          <para>DOPY 10 </para>
+        </entry>
+        <entry>
+          <para>D001</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>785-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>NEW PANACEIA</para>
+        </entry>
+        <entry>
+          <para>NWLP-N11158</para>
+        </entry>
+        <entry>
+          <para>CATAREX LS </para>
+        </entry>
+        <entry>
+          <para>C017</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>785-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>NEW PANACEIA</para>
+        </entry>
+        <entry>
+          <para>NWLP-N11158</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>786-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>NIRMALANJALI</para>
+        </entry>
+        <entry>
+          <para>NWLP-N11568</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS </para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>787-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>PEOPLES PHARMACY PVT. LTD</para>
+        </entry>
+        <entry>
+          <para>NWLP-P10153</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>788-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>PRAFULLYA MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-P10371</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>788-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>PRAFULLYA MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-P10371</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>788-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>PRAFULLYA MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-P10371</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>789-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>PAL PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-P10374</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS </para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>20</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>790-Debasish Chowdhery</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>PARNASREE PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-P10472</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>18</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>790-Debasish Chowdhery</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>PARNASREE PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-P10472</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>790-Debasish Chowdhery</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>PARNASREE PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-P10472</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>12</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>791-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>PANACEA</para>
+        </entry>
+        <entry>
+          <para>NWLP-P10473</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>792-Debasish Chowdhery</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>PAPAI MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>NWLP-P10474</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS </para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>793-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>P.N.DRUG HOUSE</para>
+        </entry>
+        <entry>
+          <para>NWLP-P10841</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>793-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>P.N.DRUG HOUSE</para>
+        </entry>
+        <entry>
+          <para>NWLP-P10841</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>794-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>PAKRASHI MEDICARE</para>
+        </entry>
+        <entry>
+          <para>NWLP-P11289</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>794-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>PAKRASHI MEDICARE</para>
+        </entry>
+        <entry>
+          <para>NWLP-P11289</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>795-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-P11310</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>18</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>796-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>RELIFE</para>
+        </entry>
+        <entry>
+          <para>NWLP-R10397</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>797-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>RAJHANS PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-R10415</para>
+        </entry>
+        <entry>
+          <para>PAINTEX </para>
+        </entry>
+        <entry>
+          <para>P001</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>797-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>RAJHANS PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-R10415</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>797-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>RAJHANS PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-R10415</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>797-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>RAJHANS PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-R10415</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>798-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>RAJU PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-R10416</para>
+        </entry>
+        <entry>
+          <para>MEPLON RED TABLETS </para>
+        </entry>
+        <entry>
+          <para>M015</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>798-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>RAJU PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-R10416</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME NXG </para>
+        </entry>
+        <entry>
+          <para>C019</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>799-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>ROY CLINIC</para>
+        </entry>
+        <entry>
+          <para>NWLP-R10419</para>
+        </entry>
+        <entry>
+          <para>MENOLATE TABLETS </para>
+        </entry>
+        <entry>
+          <para>M014</para>
+        </entry>
+        <entry>
+          <para>60</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>800-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>RAMKRISHNA MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-R10578</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>800-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>RAMKRISHNA MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>NWLP-R10578</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>801-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>RELIEF</para>
+        </entry>
+        <entry>
+          <para>NWLP-R10986</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>802-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>SAGAR MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>NWLP-S10929</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>803-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>SARADA PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-S10930</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>804-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>SEVAYAN</para>
+        </entry>
+        <entry>
+          <para>NWLP-S10980</para>
+        </entry>
+        <entry>
+          <para>MENOLATE TABLETS </para>
+        </entry>
+        <entry>
+          <para>M014</para>
+        </entry>
+        <entry>
+          <para>20</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>804-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>SEVAYAN</para>
+        </entry>
+        <entry>
+          <para>NWLP-S10980</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>804-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>SEVAYAN</para>
+        </entry>
+        <entry>
+          <para>NWLP-S10980</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>805-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>SANJIVANI</para>
+        </entry>
+        <entry>
+          <para>NWLP-S12563</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>805-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>SANJIVANI</para>
+        </entry>
+        <entry>
+          <para>NWLP-S12563</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>806-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>SREE GONESH MEDICOSE</para>
+        </entry>
+        <entry>
+          <para>NWLP-S12966</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>807-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>SUNANDA MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>NWLP-S13038</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>807-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>SUNANDA MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>NWLP-S13038</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>808-Debasish Chowdhery</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>SINHA PHARMACY</para>
+        </entry>
+        <entry>
+          <para>NWLP-S13309</para>
+        </entry>
+        <entry>
+          <para>MENOLATE TABLETS </para>
+        </entry>
+        <entry>
+          <para>M014</para>
+        </entry>
+        <entry>
+          <para>20</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>809-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>SANJIBONI</para>
+        </entry>
+        <entry>
+          <para>NWLP-S13899</para>
+        </entry>
+        <entry>
+          <para>PAINTEX </para>
+        </entry>
+        <entry>
+          <para>P001</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>809-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>SANJIBONI</para>
+        </entry>
+        <entry>
+          <para>NWLP-S13899</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>7</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>809-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>SANJIBONI</para>
+        </entry>
+        <entry>
+          <para>NWLP-S13899</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>7</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>810-Suman Adak</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>TARA MEDICO</para>
+        </entry>
+        <entry>
+          <para>NWLP-T10161</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS </para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>811-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>THE CALCUTTA BLUE PRINT</para>
+        </entry>
+        <entry>
+          <para>NWLP-T10661</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>811-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>THE CALCUTTA BLUE PRINT</para>
+        </entry>
+        <entry>
+          <para>NWLP-T10661</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>812-Pradip Jash</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>UMA MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>NWLP-U10190</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>50</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>812-Pradip Jash</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>UMA MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>NWLP-U10190</para>
+        </entry>
+        <entry>
+          <para>CATAREX LS </para>
+        </entry>
+        <entry>
+          <para>C017</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>813-Santu Mondal</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>VISHNU MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>NWLP-V10038</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>814-Sandip Srivastav</para>
+        </entry>
+        <entry>
+          <para>2018-10-10</para>
+        </entry>
+        <entry>
+          <para>ORD-NWLP</para>
+        </entry>
+        <entry>
+          <para>WEL FARE</para>
+        </entry>
+        <entry>
+          <para>NWLP-W10012</para>
+        </entry>
+        <entry>
+          <para>CARMOLAX ROOTS [POWDER] </para>
+        </entry>
+        <entry>
+          <para>C015</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+    </tbody>
+  </para>
+</article>

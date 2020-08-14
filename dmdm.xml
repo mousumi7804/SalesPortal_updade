@@ -1,0 +1,3516 @@
+<article>
+  <para>
+    <tbody>
+      <row>
+        <entry>
+          <para>Order No</para>
+        </entry>
+        <entry>
+          <para>Order Date</para>
+        </entry>
+        <entry>
+          <para>Order Series</para>
+        </entry>
+        <entry>
+          <para>Party Name</para>
+        </entry>
+        <entry>
+          <para>Party Code</para>
+        </entry>
+        <entry>
+          <para>Item Name</para>
+        </entry>
+        <entry>
+          <para>Item Code</para>
+        </entry>
+        <entry>
+          <para>Quantity</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>826-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>ALLIED MEDICAL HALL   -   DMDM-A10275</para>
+        </entry>
+        <entry>
+          <para>DMDM-A10275</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>827-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>ANJU MEDICAL STORES   -   DMDM-A10279</para>
+        </entry>
+        <entry>
+          <para>DMDM-A10279</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>827-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>ANJU MEDICAL STORES   -   DMDM-A10279</para>
+        </entry>
+        <entry>
+          <para>DMDM-A10279</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>828-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>AWAISH MEDICAL HALL   -   DMDM-A10287</para>
+        </entry>
+        <entry>
+          <para>DMDM-A10287</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>828-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>AWAISH MEDICAL HALL   -   DMDM-A10287</para>
+        </entry>
+        <entry>
+          <para>DMDM-A10287</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>829-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>ANITA PHARMACY  -  DMDM-A10809</para>
+        </entry>
+        <entry>
+          <para>DMDM-A10809</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>829-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>ANITA PHARMACY  -  DMDM-A10809</para>
+        </entry>
+        <entry>
+          <para>DMDM-A10809</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>829-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>ANITA PHARMACY  -  DMDM-A10809</para>
+        </entry>
+        <entry>
+          <para>DMDM-A10809</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>830-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>ARATI MEDICAL HALL  -  DMDM-A10810</para>
+        </entry>
+        <entry>
+          <para>DMDM-A10810</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>831-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>ARYA MEDICAL  -  DMDM-A10811</para>
+        </entry>
+        <entry>
+          <para>DMDM-A10811</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>832-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>ASHIRBAD  -  DMDM-A10812</para>
+        </entry>
+        <entry>
+          <para>DMDM-A10812</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>833-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>B.C. COONDOO &amp; CO.   -   DMDM-B10334</para>
+        </entry>
+        <entry>
+          <para>DMDM-B10334</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS </para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>20</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>834-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>BHARATI MEDICAL HALL DMDM-B10555</para>
+        </entry>
+        <entry>
+          <para>DMDM-B10555</para>
+        </entry>
+        <entry>
+          <para>TABAZI </para>
+        </entry>
+        <entry>
+          <para>T001</para>
+        </entry>
+        <entry>
+          <para>20</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>834-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>BHARATI MEDICAL HALL DMDM-B10555</para>
+        </entry>
+        <entry>
+          <para>DMDM-B10555</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>834-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>BHARATI MEDICAL HALL DMDM-B10555</para>
+        </entry>
+        <entry>
+          <para>DMDM-B10555</para>
+        </entry>
+        <entry>
+          <para>PAINTEX </para>
+        </entry>
+        <entry>
+          <para>P001</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>835-Pranab Guha</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>BISWAS MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>DMDM-B10602</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME DROPS </para>
+        </entry>
+        <entry>
+          <para>C004</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>836-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>BLESSINGS  -  DMDM-B10880</para>
+        </entry>
+        <entry>
+          <para>DMDM-B10880</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>836-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>BLESSINGS  -  DMDM-B10880</para>
+        </entry>
+        <entry>
+          <para>DMDM-B10880</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>837-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>CITY MEDICAL STORES   -   DMDM-C10173</para>
+        </entry>
+        <entry>
+          <para>DMDM-C10173</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>837-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>CITY MEDICAL STORES   -   DMDM-C10173</para>
+        </entry>
+        <entry>
+          <para>DMDM-C10173</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>838-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>DRUG EMPORIUM  -  DMDM-D10229</para>
+        </entry>
+        <entry>
+          <para>DMDM-D10229</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>839-Pranab Guha</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>DEE PEES</para>
+        </entry>
+        <entry>
+          <para>DMDM-D10460</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS </para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>20</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>840-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>DHANWANTARY MEDICARE &amp; RESUME   -   DMDM-D10835</para>
+        </entry>
+        <entry>
+          <para>DMDM-D10835</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>40</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>840-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>DHANWANTARY MEDICARE &amp; RESUME   -   DMDM-D10835</para>
+        </entry>
+        <entry>
+          <para>DMDM-D10835</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>28</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>841-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>DHANWANTARY MEDICAL - DMDM-D11803</para>
+        </entry>
+        <entry>
+          <para>DMDM-D11803</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>841-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>DHANWANTARY MEDICAL - DMDM-D11803</para>
+        </entry>
+        <entry>
+          <para>DMDM-D11803</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>842-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>DAY NIGHT BLUE PRINT   -   DMDM-D11908</para>
+        </entry>
+        <entry>
+          <para>DMDM-D11908</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>842-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>DAY NIGHT BLUE PRINT   -   DMDM-D11908</para>
+        </entry>
+        <entry>
+          <para>DMDM-D11908</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>843-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>DITHSA PHARMACY  -  DMDM-D12805</para>
+        </entry>
+        <entry>
+          <para>DMDM-D12805</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME NXG </para>
+        </entry>
+        <entry>
+          <para>C019</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>843-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>DITHSA PHARMACY  -  DMDM-D12805</para>
+        </entry>
+        <entry>
+          <para>DMDM-D12805</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>843-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>DITHSA PHARMACY  -  DMDM-D12805</para>
+        </entry>
+        <entry>
+          <para>DMDM-D12805</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>8</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>843-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>DITHSA PHARMACY  -  DMDM-D12805</para>
+        </entry>
+        <entry>
+          <para>DMDM-D12805</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>844-Pranab Guha</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>ELIXIR</para>
+        </entry>
+        <entry>
+          <para>DMDM-E10058</para>
+        </entry>
+        <entry>
+          <para>CATAREX LS </para>
+        </entry>
+        <entry>
+          <para>C017</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>845-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>GITA MEDICAL STORES   -   DMDM-G10205</para>
+        </entry>
+        <entry>
+          <para>DMDM-G10205</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS </para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>846-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>GLORY MEDICAL HALL   -   DMDM-G10206</para>
+        </entry>
+        <entry>
+          <para>DMDM-G10206</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>846-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>GLORY MEDICAL HALL   -   DMDM-G10206</para>
+        </entry>
+        <entry>
+          <para>DMDM-G10206</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>846-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>GLORY MEDICAL HALL   -   DMDM-G10206</para>
+        </entry>
+        <entry>
+          <para>DMDM-G10206</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>847-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>GITA MEDICAL  -  DMDM-G10901</para>
+        </entry>
+        <entry>
+          <para>DMDM-G10901</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>847-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>GITA MEDICAL  -  DMDM-G10901</para>
+        </entry>
+        <entry>
+          <para>DMDM-G10901</para>
+        </entry>
+        <entry>
+          <para>PAINTEX </para>
+        </entry>
+        <entry>
+          <para>P001</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>848-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>HALDER PHARMACY   -   DMDM-H10082</para>
+        </entry>
+        <entry>
+          <para>DMDM-H10082</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS </para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>849-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>JASHODA MEDICAL  -  DMDM-J11013</para>
+        </entry>
+        <entry>
+          <para>DMDM-J11013</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>849-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>JASHODA MEDICAL  -  DMDM-J11013</para>
+        </entry>
+        <entry>
+          <para>DMDM-J11013</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>850-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>KOLKATA MEDICO   -   DMDM-K10201</para>
+        </entry>
+        <entry>
+          <para>DMDM-K10201</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS </para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>851-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>KAMALA MEDICAL HALL  -  DMDM-K10582</para>
+        </entry>
+        <entry>
+          <para>DMDM-K10582</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>852-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>KOUSIKE MEDICAL  -  DMDM-K11000</para>
+        </entry>
+        <entry>
+          <para>DMDM-K11000</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>852-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>KOUSIKE MEDICAL  -  DMDM-K11000</para>
+        </entry>
+        <entry>
+          <para>DMDM-K11000</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>853-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>LIFE MEDICAL STORES   -   DMDM-L10170</para>
+        </entry>
+        <entry>
+          <para>DMDM-L10170</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>853-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>LIFE MEDICAL STORES   -   DMDM-L10170</para>
+        </entry>
+        <entry>
+          <para>DMDM-L10170</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>854-Bablu Mahto</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>LIFE LINE MEDICAL AGENCY DMDM-L10939</para>
+        </entry>
+        <entry>
+          <para>DMDM-L10939</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>100</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>854-Bablu Mahto</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>LIFE LINE MEDICAL AGENCY DMDM-L10939</para>
+        </entry>
+        <entry>
+          <para>DMDM-L10939</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>98</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>855-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MEDICAL STORES   -   DMDM-M10658</para>
+        </entry>
+        <entry>
+          <para>DMDM-M10658</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>855-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MEDICAL STORES   -   DMDM-M10658</para>
+        </entry>
+        <entry>
+          <para>DMDM-M10658</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>855-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MEDICAL STORES   -   DMDM-M10658</para>
+        </entry>
+        <entry>
+          <para>DMDM-M10658</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>856-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MONDAL MEDICAL STORES   -   DMDM-M10669</para>
+        </entry>
+        <entry>
+          <para>DMDM-M10669</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>856-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MONDAL MEDICAL STORES   -   DMDM-M10669</para>
+        </entry>
+        <entry>
+          <para>DMDM-M10669</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME NXG </para>
+        </entry>
+        <entry>
+          <para>C019</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>856-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MONDAL MEDICAL STORES   -   DMDM-M10669</para>
+        </entry>
+        <entry>
+          <para>DMDM-M10669</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>856-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MONDAL MEDICAL STORES   -   DMDM-M10669</para>
+        </entry>
+        <entry>
+          <para>DMDM-M10669</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>857-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MAA MEDICAL   -   DMDM-M10670</para>
+        </entry>
+        <entry>
+          <para>DMDM-M10670</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>858-Bablu Mahto</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MAA MEDICAL HALL DMDM-M10950</para>
+        </entry>
+        <entry>
+          <para>DMDM-M10950</para>
+        </entry>
+        <entry>
+          <para>AMIRID-O TABLETS </para>
+        </entry>
+        <entry>
+          <para>A009</para>
+        </entry>
+        <entry>
+          <para>20</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>859-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MAA TARAMA MEDICAL - DMDM-M11128</para>
+        </entry>
+        <entry>
+          <para>DMDM-M11128</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>860-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MILAN MEDICAL HALL  -  DMDM-M11885</para>
+        </entry>
+        <entry>
+          <para>DMDM-M11885</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>861-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MOKHODA MEDI CARE  -  DMDM-M11889</para>
+        </entry>
+        <entry>
+          <para>DMDM-M11889</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>862-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MEDI PLUS   -   DMDM-M12925</para>
+        </entry>
+        <entry>
+          <para>DMDM-M12925</para>
+        </entry>
+        <entry>
+          <para>PAINTEX </para>
+        </entry>
+        <entry>
+          <para>P001</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>862-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MEDI PLUS   -   DMDM-M12925</para>
+        </entry>
+        <entry>
+          <para>DMDM-M12925</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>862-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MEDI PLUS   -   DMDM-M12925</para>
+        </entry>
+        <entry>
+          <para>DMDM-M12925</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>863-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MEDI POINT   -   DMDM-M13429</para>
+        </entry>
+        <entry>
+          <para>DMDM-M13429</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>863-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MEDI POINT   -   DMDM-M13429</para>
+        </entry>
+        <entry>
+          <para>DMDM-M13429</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>863-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MEDI POINT   -   DMDM-M13429</para>
+        </entry>
+        <entry>
+          <para>DMDM-M13429</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME NXG </para>
+        </entry>
+        <entry>
+          <para>C019</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>863-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>MEDI POINT   -   DMDM-M13429</para>
+        </entry>
+        <entry>
+          <para>DMDM-M13429</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>864-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>NAKULESWAR MEDICAL HALL  -  DMDM-N10073</para>
+        </entry>
+        <entry>
+          <para>DMDM-N10073</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>865-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>NATIONAL MEDICAL STORES   -   DMDM-N10309</para>
+        </entry>
+        <entry>
+          <para>DMDM-N10309</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>865-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>NATIONAL MEDICAL STORES   -   DMDM-N10309</para>
+        </entry>
+        <entry>
+          <para>DMDM-N10309</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>866-Bablu Mahto</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>NAHA PHARMACY DMDM-N10427</para>
+        </entry>
+        <entry>
+          <para>DMDM-N10427</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME ROOTS </para>
+        </entry>
+        <entry>
+          <para>C021</para>
+        </entry>
+        <entry>
+          <para>54</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>867-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>NEW DEEDAR MEDICAL STORES   -   DMDM-N10473</para>
+        </entry>
+        <entry>
+          <para>DMDM-N10473</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>867-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>NEW DEEDAR MEDICAL STORES   -   DMDM-N10473</para>
+        </entry>
+        <entry>
+          <para>DMDM-N10473</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>867-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>NEW DEEDAR MEDICAL STORES   -   DMDM-N10473</para>
+        </entry>
+        <entry>
+          <para>DMDM-N10473</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>868-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>NORTH CLINIC - DMDM-N10548</para>
+        </entry>
+        <entry>
+          <para>DMDM-N10548</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>869-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>N.D.MEDICAL - DMDM-N10552</para>
+        </entry>
+        <entry>
+          <para>DMDM-N10552</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>869-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>N.D.MEDICAL - DMDM-N10552</para>
+        </entry>
+        <entry>
+          <para>DMDM-N10552</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>870-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>NIRAMOY MEDICINE HOUSE   -   DMDM-N10573</para>
+        </entry>
+        <entry>
+          <para>DMDM-N10573</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS </para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>870-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>NIRAMOY MEDICINE HOUSE   -   DMDM-N10573</para>
+        </entry>
+        <entry>
+          <para>DMDM-N10573</para>
+        </entry>
+        <entry>
+          <para>LOK AR MDT </para>
+        </entry>
+        <entry>
+          <para>L002</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>871-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>NEW LIFE  -  DMDM-N10851</para>
+        </entry>
+        <entry>
+          <para>DMDM-N10851</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>872-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>NAGERBAZER BLUE PRINT.  -  DMDM-N11275</para>
+        </entry>
+        <entry>
+          <para>DMDM-N11275</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>872-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>NAGERBAZER BLUE PRINT.  -  DMDM-N11275</para>
+        </entry>
+        <entry>
+          <para>DMDM-N11275</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>872-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>NAGERBAZER BLUE PRINT.  -  DMDM-N11275</para>
+        </entry>
+        <entry>
+          <para>DMDM-N11275</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>873-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>NANDINI PHARMACY  -  DMDM-N11523</para>
+        </entry>
+        <entry>
+          <para>DMDM-N11523</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>874-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>NEW BLUE PRINT   -   DMDM-N11563</para>
+        </entry>
+        <entry>
+          <para>DMDM-N11563</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>874-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>NEW BLUE PRINT   -   DMDM-N11563</para>
+        </entry>
+        <entry>
+          <para>DMDM-N11563</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>874-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>NEW BLUE PRINT   -   DMDM-N11563</para>
+        </entry>
+        <entry>
+          <para>DMDM-N11563</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>875-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>O.K. MEDICAL STORES   -   DMDM-O10014</para>
+        </entry>
+        <entry>
+          <para>DMDM-O10014</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME NXG </para>
+        </entry>
+        <entry>
+          <para>C019</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>875-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>O.K. MEDICAL STORES   -   DMDM-O10014</para>
+        </entry>
+        <entry>
+          <para>DMDM-O10014</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>875-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>O.K. MEDICAL STORES   -   DMDM-O10014</para>
+        </entry>
+        <entry>
+          <para>DMDM-O10014</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>876-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>PEOPLES MEDICINE CENTER   -   DMDM-P10289</para>
+        </entry>
+        <entry>
+          <para>DMDM-P10289</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>876-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>PEOPLES MEDICINE CENTER   -   DMDM-P10289</para>
+        </entry>
+        <entry>
+          <para>DMDM-P10289</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME NXG </para>
+        </entry>
+        <entry>
+          <para>C019</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>877-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>PRESCRIPTION PHARMACY   -   DMDM-P11276</para>
+        </entry>
+        <entry>
+          <para>DMDM-P11276</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS </para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>878-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RADHA MEDICAL HALL  -  DMDM-R10102</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10102</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>878-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RADHA MEDICAL HALL  -  DMDM-R10102</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10102</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>879-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RELIANCE MEDICAL   -   DMDM-R10319</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10319</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>879-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RELIANCE MEDICAL   -   DMDM-R10319</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10319</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>880-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>ROYAL MEDICAL HALL   -   DMDM-R10321</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10321</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME NXG </para>
+        </entry>
+        <entry>
+          <para>C019</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>880-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>ROYAL MEDICAL HALL   -   DMDM-R10321</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10321</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>880-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>ROYAL MEDICAL HALL   -   DMDM-R10321</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10321</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>881-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RIPON MEDICAL STORES   -   DMDM-R10322</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10322</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>882-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RAMKRISHNA PHARMACY   -   DMDM-R10323</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10323</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>882-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RAMKRISHNA PHARMACY   -   DMDM-R10323</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10323</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>883-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RAMKRISHNA MEDICAL STORES - DMDM-R10562</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10562</para>
+        </entry>
+        <entry>
+          <para>PAINTEX </para>
+        </entry>
+        <entry>
+          <para>P001</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>883-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RAMKRISHNA MEDICAL STORES - DMDM-R10562</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10562</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>883-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RAMKRISHNA MEDICAL STORES - DMDM-R10562</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10562</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>12</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>884-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RELIANCE DRUG - DMDM-R10563</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10563</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>884-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RELIANCE DRUG - DMDM-R10563</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10563</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>884-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RELIANCE DRUG - DMDM-R10563</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10563</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>885-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RELIFE MEDICAL HALL  -  DMDM-R10895</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10895</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>885-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RELIFE MEDICAL HALL  -  DMDM-R10895</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10895</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>886-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RAMKRISHNA MEDICAL STORES  -  DMDM-R10896</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10896</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>886-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RAMKRISHNA MEDICAL STORES  -  DMDM-R10896</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10896</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>886-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RAMKRISHNA MEDICAL STORES  -  DMDM-R10896</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10896</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>887-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RITA MEDICAL HALL  -  DMDM-R10897</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10897</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>887-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RITA MEDICAL HALL  -  DMDM-R10897</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10897</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>887-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>RITA MEDICAL HALL  -  DMDM-R10897</para>
+        </entry>
+        <entry>
+          <para>DMDM-R10897</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>888-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>SEBAYAN  -  DMDM-S10173</para>
+        </entry>
+        <entry>
+          <para>DMDM-S10173</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>20</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>889-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>S.M. DRUG HOUSE   -   DMDM-S10743</para>
+        </entry>
+        <entry>
+          <para>DMDM-S10743</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>889-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>S.M. DRUG HOUSE   -   DMDM-S10743</para>
+        </entry>
+        <entry>
+          <para>DMDM-S10743</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>890-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>SAFI BLUE PRINT   -   DMDM-S10746</para>
+        </entry>
+        <entry>
+          <para>DMDM-S10746</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS </para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>30</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>891-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>SAVIOUR   -   DMDM-S10749</para>
+        </entry>
+        <entry>
+          <para>DMDM-S10749</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>891-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>SAVIOUR   -   DMDM-S10749</para>
+        </entry>
+        <entry>
+          <para>DMDM-S10749</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>891-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>SAVIOUR   -   DMDM-S10749</para>
+        </entry>
+        <entry>
+          <para>DMDM-S10749</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>891-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>SAVIOUR   -   DMDM-S10749</para>
+        </entry>
+        <entry>
+          <para>DMDM-S10749</para>
+        </entry>
+        <entry>
+          <para>PAINTEX </para>
+        </entry>
+        <entry>
+          <para>P001</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>892-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>SHAMBHUNATH MEDICAL - DMDM-S11319</para>
+        </entry>
+        <entry>
+          <para>DMDM-S11319</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>892-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>SHAMBHUNATH MEDICAL - DMDM-S11319</para>
+        </entry>
+        <entry>
+          <para>DMDM-S11319</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>892-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>SHAMBHUNATH MEDICAL - DMDM-S11319</para>
+        </entry>
+        <entry>
+          <para>DMDM-S11319</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>893-Pintu Gope</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>SANJIBANI  -  DMDM-S12168</para>
+        </entry>
+        <entry>
+          <para>DMDM-S12168</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS </para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>894-Indranil Mukherjee</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>SPARSWA MEDICAL CENTER - DMDM-S12353</para>
+        </entry>
+        <entry>
+          <para>DMDM-S12353</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>895-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>SUSTHA   -   DMDM-S13889</para>
+        </entry>
+        <entry>
+          <para>DMDM-S13889</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>896-Biswajit Samanta</para>
+        </entry>
+        <entry>
+          <para>2018-10-08</para>
+        </entry>
+        <entry>
+          <para>ORD-DMDM</para>
+        </entry>
+        <entry>
+          <para>TALTALA MEDICAL STORES   -   DMDM-T10135</para>
+        </entry>
+        <entry>
+          <para>DMDM-T10135</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+      </row>
+    </tbody>
+  </para>
+</article>

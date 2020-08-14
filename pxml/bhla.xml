@@ -1,0 +1,325 @@
+<article>
+  <para>
+    <tbody>
+      <row>
+        <entry>
+          <para>Order No</para>
+        </entry>
+        <entry>
+          <para>Order Date</para>
+        </entry>
+        <entry>
+          <para>Order Series</para>
+        </entry>
+        <entry>
+          <para>Party Name</para>
+        </entry>
+        <entry>
+          <para>Party Code</para>
+        </entry>
+        <entry>
+          <para>Item Name</para>
+        </entry>
+        <entry>
+          <para>Item Code</para>
+        </entry>
+        <entry>
+          <para>Quantity</para>
+        </entry>
+        <entry>
+          <para>Remarks</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>140369-Dibyendu Majumdar</para>
+        </entry>
+        <entry>
+          <para>2019-09-13</para>
+        </entry>
+        <entry>
+          <para>ORD-BRST</para>
+        </entry>
+        <entry>
+          <para>AMBIKA PHARMACY. </para>
+        </entry>
+        <entry>
+          <para>BRST-A10045</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>18</para>
+        </entry>
+        <entry>
+          <para>OK</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>140370-Dibyendu Majumdar</para>
+        </entry>
+        <entry>
+          <para>2019-09-13</para>
+        </entry>
+        <entry>
+          <para>ORD-BRST</para>
+        </entry>
+        <entry>
+          <para>A.G. ENTERPRISE </para>
+        </entry>
+        <entry>
+          <para>BRST-A10263</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>190</para>
+        </entry>
+        <entry>
+          <para>OK</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>140371-Dibyendu Majumdar</para>
+        </entry>
+        <entry>
+          <para>2019-09-13</para>
+        </entry>
+        <entry>
+          <para>ORD-BRST</para>
+        </entry>
+        <entry>
+          <para>ANNAPURNA AGENCY</para>
+        </entry>
+        <entry>
+          <para>BRST-A11946</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>76</para>
+        </entry>
+        <entry>
+          <para>OK</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>140371-Dibyendu Majumdar</para>
+        </entry>
+        <entry>
+          <para>2019-09-13</para>
+        </entry>
+        <entry>
+          <para>ORD-BRST</para>
+        </entry>
+        <entry>
+          <para>ANNAPURNA AGENCY</para>
+        </entry>
+        <entry>
+          <para>BRST-A11946</para>
+        </entry>
+        <entry>
+          <para>LULICONAZOLE (10 GMS)</para>
+        </entry>
+        <entry>
+          <para>L003</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+        <entry>
+          <para>OK</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>140372-Dibyendu Majumdar</para>
+        </entry>
+        <entry>
+          <para>2019-09-13</para>
+        </entry>
+        <entry>
+          <para>ORD-BRST</para>
+        </entry>
+        <entry>
+          <para>MALANCHA MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>BRST-FJ023766</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>19</para>
+        </entry>
+        <entry>
+          <para>OK</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>140372-Dibyendu Majumdar</para>
+        </entry>
+        <entry>
+          <para>2019-09-13</para>
+        </entry>
+        <entry>
+          <para>ORD-BRST</para>
+        </entry>
+        <entry>
+          <para>MALANCHA MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>BRST-FJ023766</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+        <entry>
+          <para>OK</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>140372-Dibyendu Majumdar</para>
+        </entry>
+        <entry>
+          <para>2019-09-13</para>
+        </entry>
+        <entry>
+          <para>ORD-BRST</para>
+        </entry>
+        <entry>
+          <para>MALANCHA MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>BRST-FJ023766</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+        <entry>
+          <para>OK</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>140373-Dibyendu Majumdar</para>
+        </entry>
+        <entry>
+          <para>2019-09-13</para>
+        </entry>
+        <entry>
+          <para>ORD-BRST</para>
+        </entry>
+        <entry>
+          <para>JASADA MEDICAL HALL </para>
+        </entry>
+        <entry>
+          <para>BRST-J10136</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+        <entry>
+          <para>OK</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>140374-Dibyendu Majumdar</para>
+        </entry>
+        <entry>
+          <para>2019-09-13</para>
+        </entry>
+        <entry>
+          <para>ORD-BRST</para>
+        </entry>
+        <entry>
+          <para>MEDICINE TRADERS </para>
+        </entry>
+        <entry>
+          <para>BRST-M10105</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+        <entry>
+          <para>OK</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>140375-Dibyendu Majumdar</para>
+        </entry>
+        <entry>
+          <para>2019-09-13</para>
+        </entry>
+        <entry>
+          <para>ORD-BRST</para>
+        </entry>
+        <entry>
+          <para>NAMITA PHARMACY </para>
+        </entry>
+        <entry>
+          <para>BRST-N10044</para>
+        </entry>
+        <entry>
+          <para>LOK AR MDT</para>
+        </entry>
+        <entry>
+          <para>L002</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+        <entry>
+          <para>OK</para>
+        </entry>
+      </row>
+    </tbody>
+  </para>
+</article>

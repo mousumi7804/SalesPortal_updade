@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ReportDataSet_Leadtime" targetNamespace="http://tempuri.org/ReportDataSet_Leadtime.xsd" xmlns:mstns="http://tempuri.org/ReportDataSet_Leadtime.xsd" xmlns="http://tempuri.org/ReportDataSet_Leadtime.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="MendineMasterdummyConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="MendineMasterdummyConnectionString (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.MendineMasterdummyConnectionString.ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dtLeadTimeTableAdapter" GeneratorDataComponentClassName="dtLeadTimeTableAdapter" Name="dtLeadTime" UserDataComponentName="dtLeadTimeTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="MendineMasterdummyConnectionString (Web.config)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT PO.Date AS PODate, PO.PartyName AS POPartyName, PO.Reference AS PORefNo, PO.StockItemName AS POStockItemName, PO.ActualQuantity AS POQTY, PO.Rate AS PORate, PO.RateUOM AS POUOM, PO.Amount * - 1 AS POAmount, 
+                  GRN.Date AS GRNDate, GRN.Reference AS GRNReference, GRN.ActualQuantity AS GRNQTY, GRN.Rate AS GRNRate, GRN.RateUOM AS GRNUOM, GRN.Amount * - 1 AS GRNAmount, PURCHASE.Date AS InvoiceDate, 
+                  PURCHASE.Reference AS InvoiceReference, PURCHASE.ActualQuantity AS InvoiceQTY, PURCHASE.Rate AS InvoiceRate, PURCHASE.RateUOM AS InvoiceUOM, PURCHASE.Amount * - 1 AS InvoiceAmount
+FROM     (SELECT TD_Txn_VchHdr.CompanyID, TD_Txn_VchHdr.Date, TD_Txn_VchHdr.VoucherTypeName, TD_Txn_VchHdr.VoucherNo, TD_Txn_VchHdr.Reference, TD_Txn_VchHdr.PartyName, TD_Txn_InvLine.Rate, 
+                                    TD_Txn_InvLine.StockItemName, TD_Txn_InvLine.RateUOM, TD_Txn_InvLine.Amount, TD_Txn_InvLine.ActualQuantity, TD_Txn_InvLine.ActualUOM
+                  FROM      TD_Txn_VchHdr INNER JOIN
+                                    TD_Txn_InvLine ON TD_Txn_VchHdr.CompanyID = TD_Txn_InvLine.CompanyId AND TD_Txn_VchHdr.VoucherID = TD_Txn_InvLine.VoucherID INNER JOIN
+                                    TD_Txn_AccLine ON TD_Txn_VchHdr.CompanyID = TD_Txn_AccLine.CompanyID AND TD_Txn_InvLine.AccLineNo = TD_Txn_AccLine.AccLineNo AND TD_Txn_InvLine.VoucherID = TD_Txn_AccLine.VoucherID AND 
+                                    TD_Txn_VchHdr.VoucherID = TD_Txn_AccLine.VoucherID
+                  WHERE   (TD_Txn_VchHdr.CompanyID = 2) AND (TD_Txn_VchHdr.VoucherTypeName LIKE 'Purchase Order for Factory') OR
+                                    (TD_Txn_VchHdr.CompanyID = 2) AND (TD_Txn_VchHdr.VoucherTypeName LIKE 'Purchase Order for Central Hub')) AS PO LEFT OUTER JOIN
+                      (SELECT TD_Txn_VchHdr_2.CompanyID, TD_Txn_VchHdr_2.Date, TD_Txn_VchHdr_2.VoucherTypeName, TD_Txn_VchHdr_2.VoucherNo, TD_Txn_VchHdr_2.Reference, TD_Txn_VchHdr_2.PartyName, TD_Txn_InvLine_2.Rate, 
+                                         TD_Txn_InvLine_2.StockItemName, TD_Txn_InvLine_2.RateUOM, TD_Txn_InvLine_2.Amount, TD_Txn_InvLine_2.ActualQuantity, TD_Txn_InvLine_2.ActualUOM, TD_Txn_VchHdr_2.OrderNo, TD_Txn_VchHdr_2.OrderDate
+                       FROM      TD_Txn_VchHdr AS TD_Txn_VchHdr_2 INNER JOIN
+                                         TD_Txn_InvLine AS TD_Txn_InvLine_2 ON TD_Txn_VchHdr_2.CompanyID = TD_Txn_InvLine_2.CompanyId AND TD_Txn_VchHdr_2.VoucherID = TD_Txn_InvLine_2.VoucherID INNER JOIN
+                                         TD_Txn_AccLine AS TD_Txn_AccLine_2 ON TD_Txn_VchHdr_2.CompanyID = TD_Txn_AccLine_2.CompanyID AND TD_Txn_InvLine_2.AccLineNo = TD_Txn_AccLine_2.AccLineNo AND 
+                                         TD_Txn_InvLine_2.VoucherID = TD_Txn_AccLine_2.VoucherID AND TD_Txn_VchHdr_2.VoucherID = TD_Txn_AccLine_2.VoucherID
+                       WHERE   (TD_Txn_VchHdr_2.CompanyID = 2) AND (TD_Txn_VchHdr_2.VoucherTypeName LIKE 'GRN%')) AS GRN ON PO.Reference = GRN.OrderNo AND PO.StockItemName = GRN.StockItemName LEFT OUTER JOIN
+                      (SELECT TD_Txn_VchHdr_1.CompanyID, TD_Txn_VchHdr_1.Date, TD_Txn_VchHdr_1.VoucherTypeName, TD_Txn_VchHdr_1.VoucherNo, TD_Txn_VchHdr_1.Reference, TD_Txn_VchHdr_1.PartyName, TD_Txn_InvLine_1.Rate, 
+                                         TD_Txn_InvLine_1.StockItemName, TD_Txn_InvLine_1.RateUOM, TD_Txn_InvLine_1.Amount, TD_Txn_InvLine_1.ActualQuantity, TD_Txn_InvLine_1.ActualUOM, TD_Txn_VchHdr_1.OrderNo
+                       FROM      TD_Txn_VchHdr AS TD_Txn_VchHdr_1 INNER JOIN
+                                         TD_Txn_InvLine AS TD_Txn_InvLine_1 ON TD_Txn_VchHdr_1.CompanyID = TD_Txn_InvLine_1.CompanyId AND TD_Txn_VchHdr_1.VoucherID = TD_Txn_InvLine_1.VoucherID INNER JOIN
+                                         TD_Txn_AccLine AS TD_Txn_AccLine_1 ON TD_Txn_VchHdr_1.CompanyID = TD_Txn_AccLine_1.CompanyID AND TD_Txn_InvLine_1.AccLineNo = TD_Txn_AccLine_1.AccLineNo AND 
+                                         TD_Txn_InvLine_1.VoucherID = TD_Txn_AccLine_1.VoucherID AND TD_Txn_VchHdr_1.VoucherID = TD_Txn_AccLine_1.VoucherID
+                       WHERE   (TD_Txn_VchHdr_1.CompanyID = 2) AND (TD_Txn_VchHdr_1.VoucherTypeName LIKE 'PURCHASE FOR%')) AS PURCHASE ON GRN.OrderNo = PURCHASE.OrderNo AND GRN.StockItemName = PURCHASE.StockItemName AND 
+                  GRN.ActualQuantity = PURCHASE.ActualQuantity</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="PODate" DataSetColumn="PODate" />
+              <Mapping SourceColumn="POPartyName" DataSetColumn="POPartyName" />
+              <Mapping SourceColumn="PORefNo" DataSetColumn="PORefNo" />
+              <Mapping SourceColumn="POStockItemName" DataSetColumn="POStockItemName" />
+              <Mapping SourceColumn="POQTY" DataSetColumn="POQTY" />
+              <Mapping SourceColumn="PORate" DataSetColumn="PORate" />
+              <Mapping SourceColumn="POUOM" DataSetColumn="POUOM" />
+              <Mapping SourceColumn="POAmount" DataSetColumn="POAmount" />
+              <Mapping SourceColumn="GRNDate" DataSetColumn="GRNDate" />
+              <Mapping SourceColumn="GRNReference" DataSetColumn="GRNReference" />
+              <Mapping SourceColumn="GRNQTY" DataSetColumn="GRNQTY" />
+              <Mapping SourceColumn="GRNRate" DataSetColumn="GRNRate" />
+              <Mapping SourceColumn="GRNUOM" DataSetColumn="GRNUOM" />
+              <Mapping SourceColumn="GRNAmount" DataSetColumn="GRNAmount" />
+              <Mapping SourceColumn="InvoiceDate" DataSetColumn="InvoiceDate" />
+              <Mapping SourceColumn="InvoiceReference" DataSetColumn="InvoiceReference" />
+              <Mapping SourceColumn="InvoiceQTY" DataSetColumn="InvoiceQTY" />
+              <Mapping SourceColumn="InvoiceRate" DataSetColumn="InvoiceRate" />
+              <Mapping SourceColumn="InvoiceUOM" DataSetColumn="InvoiceUOM" />
+              <Mapping SourceColumn="InvoiceAmount" DataSetColumn="InvoiceAmount" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ReportDataSet_Leadtime" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ReportDataSet_Leadtime" msprop:Generator_UserDSName="ReportDataSet_Leadtime">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtLeadTime" msprop:Generator_TableClassName="dtLeadTimeDataTable" msprop:Generator_TableVarName="tabledtLeadTime" msprop:Generator_TablePropName="dtLeadTime" msprop:Generator_RowDeletingName="dtLeadTimeRowDeleting" msprop:Generator_RowChangingName="dtLeadTimeRowChanging" msprop:Generator_RowEvHandlerName="dtLeadTimeRowChangeEventHandler" msprop:Generator_RowDeletedName="dtLeadTimeRowDeleted" msprop:Generator_UserTableName="dtLeadTime" msprop:Generator_RowChangedName="dtLeadTimeRowChanged" msprop:Generator_RowEvArgName="dtLeadTimeRowChangeEvent" msprop:Generator_RowClassName="dtLeadTimeRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PODate" msprop:Generator_ColumnVarNameInTable="columnPODate" msprop:Generator_ColumnPropNameInRow="PODate" msprop:Generator_ColumnPropNameInTable="PODateColumn" msprop:Generator_UserColumnName="PODate" type="xs:dateTime" />
+              <xs:element name="POPartyName" msprop:Generator_ColumnVarNameInTable="columnPOPartyName" msprop:Generator_ColumnPropNameInRow="POPartyName" msprop:Generator_ColumnPropNameInTable="POPartyNameColumn" msprop:Generator_UserColumnName="POPartyName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PORefNo" msprop:Generator_ColumnVarNameInTable="columnPORefNo" msprop:Generator_ColumnPropNameInRow="PORefNo" msprop:Generator_ColumnPropNameInTable="PORefNoColumn" msprop:Generator_UserColumnName="PORefNo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="POStockItemName" msprop:Generator_ColumnVarNameInTable="columnPOStockItemName" msprop:Generator_ColumnPropNameInRow="POStockItemName" msprop:Generator_ColumnPropNameInTable="POStockItemNameColumn" msprop:Generator_UserColumnName="POStockItemName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="POQTY" msprop:Generator_ColumnVarNameInTable="columnPOQTY" msprop:Generator_ColumnPropNameInRow="POQTY" msprop:Generator_ColumnPropNameInTable="POQTYColumn" msprop:Generator_UserColumnName="POQTY" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PORate" msprop:Generator_ColumnVarNameInTable="columnPORate" msprop:Generator_ColumnPropNameInRow="PORate" msprop:Generator_ColumnPropNameInTable="PORateColumn" msprop:Generator_UserColumnName="PORate" type="xs:decimal" minOccurs="0" />
+              <xs:element name="POUOM" msprop:Generator_ColumnVarNameInTable="columnPOUOM" msprop:Generator_ColumnPropNameInRow="POUOM" msprop:Generator_ColumnPropNameInTable="POUOMColumn" msprop:Generator_UserColumnName="POUOM" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="POAmount" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPOAmount" msprop:Generator_ColumnPropNameInRow="POAmount" msprop:Generator_ColumnPropNameInTable="POAmountColumn" msprop:Generator_UserColumnName="POAmount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="GRNDate" msprop:Generator_ColumnVarNameInTable="columnGRNDate" msprop:Generator_ColumnPropNameInRow="GRNDate" msprop:Generator_ColumnPropNameInTable="GRNDateColumn" msprop:Generator_UserColumnName="GRNDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="GRNReference" msprop:Generator_ColumnVarNameInTable="columnGRNReference" msprop:Generator_ColumnPropNameInRow="GRNReference" msprop:Generator_ColumnPropNameInTable="GRNReferenceColumn" msprop:Generator_UserColumnName="GRNReference" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="GRNQTY" msprop:Generator_ColumnVarNameInTable="columnGRNQTY" msprop:Generator_ColumnPropNameInRow="GRNQTY" msprop:Generator_ColumnPropNameInTable="GRNQTYColumn" msprop:Generator_UserColumnName="GRNQTY" type="xs:decimal" minOccurs="0" />
+              <xs:element name="GRNRate" msprop:Generator_ColumnVarNameInTable="columnGRNRate" msprop:Generator_ColumnPropNameInRow="GRNRate" msprop:Generator_ColumnPropNameInTable="GRNRateColumn" msprop:Generator_UserColumnName="GRNRate" type="xs:decimal" minOccurs="0" />
+              <xs:element name="GRNUOM" msprop:Generator_ColumnVarNameInTable="columnGRNUOM" msprop:Generator_ColumnPropNameInRow="GRNUOM" msprop:Generator_ColumnPropNameInTable="GRNUOMColumn" msprop:Generator_UserColumnName="GRNUOM" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="GRNAmount" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnGRNAmount" msprop:Generator_ColumnPropNameInRow="GRNAmount" msprop:Generator_ColumnPropNameInTable="GRNAmountColumn" msprop:Generator_UserColumnName="GRNAmount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="InvoiceDate" msprop:Generator_ColumnVarNameInTable="columnInvoiceDate" msprop:Generator_ColumnPropNameInRow="InvoiceDate" msprop:Generator_ColumnPropNameInTable="InvoiceDateColumn" msprop:Generator_UserColumnName="InvoiceDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="InvoiceReference" msprop:Generator_ColumnVarNameInTable="columnInvoiceReference" msprop:Generator_ColumnPropNameInRow="InvoiceReference" msprop:Generator_ColumnPropNameInTable="InvoiceReferenceColumn" msprop:Generator_UserColumnName="InvoiceReference" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="InvoiceQTY" msprop:Generator_ColumnVarNameInTable="columnInvoiceQTY" msprop:Generator_ColumnPropNameInRow="InvoiceQTY" msprop:Generator_ColumnPropNameInTable="InvoiceQTYColumn" msprop:Generator_UserColumnName="InvoiceQTY" type="xs:decimal" minOccurs="0" />
+              <xs:element name="InvoiceRate" msprop:Generator_ColumnVarNameInTable="columnInvoiceRate" msprop:Generator_ColumnPropNameInRow="InvoiceRate" msprop:Generator_ColumnPropNameInTable="InvoiceRateColumn" msprop:Generator_UserColumnName="InvoiceRate" type="xs:decimal" minOccurs="0" />
+              <xs:element name="InvoiceUOM" msprop:Generator_ColumnVarNameInTable="columnInvoiceUOM" msprop:Generator_ColumnPropNameInRow="InvoiceUOM" msprop:Generator_ColumnPropNameInTable="InvoiceUOMColumn" msprop:Generator_UserColumnName="InvoiceUOM" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="InvoiceAmount" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnInvoiceAmount" msprop:Generator_ColumnPropNameInRow="InvoiceAmount" msprop:Generator_ColumnPropNameInTable="InvoiceAmountColumn" msprop:Generator_UserColumnName="InvoiceAmount" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

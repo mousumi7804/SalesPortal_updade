@@ -1,0 +1,72 @@
+﻿body {
+}
+.container1
+        {
+            background-color: #f2f2f2;
+            margin-top: -10px;
+            margin-left: -8px;
+            margin-right: -8px;
+            padding-left: 5px;
+        }
+    .req_css
+       {
+            color:Red;
+            font-size:x-small;
+           }
+            .grid_css
+        {
+            background-color: #fff;
+            margin: 0 auto;
+            border: solid 1px #525252;
+            border-collapse: collapse;
+            font-family: Calibri;
+            color: #474747;
+            width: 500px;
+        }
+        .grid_css td
+        {
+            padding: 2px;
+            border: solid 1px black;
+            color: Black;
+            font-size: 1em;
+        }
+        .grid_css th
+        {
+            padding: 4px 2px;
+            background-color: #78c2db;
+            color: Black;
+            font-size: 1em;
+            text-decoration: bold;
+        }
+        .custom
+        {
+            text-decoration:none;
+            color:White;
+         }
+         
+         
+          .grid_css2
+        {
+            background-color: #fff;
+          
+            border: solid 1px #525252;
+            border-collapse: collapse;
+            font-family: Calibri;
+            color: #474747;
+            width: 500px;
+        }
+        .grid_css2 td
+        {
+            padding: 2px;
+            border: solid 1px black;
+            color: Black;
+            font-size: 1em;
+        }
+        .grid_css2 th
+        {
+            padding: 4px 2px;
+            background-color: #78c2db;
+            color: Black;
+            font-size: 1em;
+            text-decoration: bold;
+        }

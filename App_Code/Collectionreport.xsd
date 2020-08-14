@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Collectionreport" targetNamespace="http://tempuri.org/Collectionreport.xsd" xmlns:mstns="http://tempuri.org/Collectionreport.xsd" xmlns="http://tempuri.org/Collectionreport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Collectionreport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="Collectionreport" msprop:Generator_DataSetName="Collectionreport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Collectionreport" msprop:Generator_TableClassName="CollectionreportDataTable" msprop:Generator_TableVarName="tableCollectionreport" msprop:Generator_TablePropName="_Collectionreport" msprop:Generator_RowDeletingName="CollectionreportRowDeleting" msprop:Generator_RowChangingName="CollectionreportRowChanging" msprop:Generator_RowEvHandlerName="CollectionreportRowChangeEventHandler" msprop:Generator_RowDeletedName="CollectionreportRowDeleted" msprop:Generator_UserTableName="Collectionreport" msprop:Generator_RowChangedName="CollectionreportRowChanged" msprop:Generator_RowEvArgName="CollectionreportRowChangeEvent" msprop:Generator_RowClassName="CollectionreportRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="StockLocation" msprop:Generator_ColumnVarNameInTable="columnStockLocation" msprop:Generator_ColumnPropNameInRow="StockLocation" msprop:Generator_ColumnPropNameInTable="StockLocationColumn" msprop:Generator_UserColumnName="StockLocation" type="xs:string" minOccurs="0" />
+              <xs:element name="CollectionDate" msprop:Generator_ColumnVarNameInTable="columnCollectionDate" msprop:Generator_ColumnPropNameInRow="CollectionDate" msprop:Generator_ColumnPropNameInTable="CollectionDateColumn" msprop:Generator_UserColumnName="CollectionDate" type="xs:string" minOccurs="0" />
+              <xs:element name="CollectionNo" msprop:Generator_ColumnVarNameInTable="columnCollectionNo" msprop:Generator_ColumnPropNameInRow="CollectionNo" msprop:Generator_ColumnPropNameInTable="CollectionNoColumn" msprop:Generator_UserColumnName="CollectionNo" type="xs:string" minOccurs="0" />
+              <xs:element name="Locality" msprop:Generator_ColumnVarNameInTable="columnLocality" msprop:Generator_ColumnPropNameInRow="Locality" msprop:Generator_ColumnPropNameInTable="LocalityColumn" msprop:Generator_UserColumnName="Locality" type="xs:string" minOccurs="0" />
+              <xs:element name="Alias" msprop:Generator_ColumnVarNameInTable="columnAlias" msprop:Generator_ColumnPropNameInRow="Alias" msprop:Generator_ColumnPropNameInTable="AliasColumn" msprop:Generator_UserColumnName="Alias" type="xs:string" minOccurs="0" />
+              <xs:element name="Customer" msprop:Generator_ColumnVarNameInTable="columnCustomer" msprop:Generator_ColumnPropNameInRow="Customer" msprop:Generator_ColumnPropNameInTable="CustomerColumn" msprop:Generator_UserColumnName="Customer" type="xs:string" minOccurs="0" />
+              <xs:element name="CollectionType" msprop:Generator_ColumnVarNameInTable="columnCollectionType" msprop:Generator_ColumnPropNameInRow="CollectionType" msprop:Generator_ColumnPropNameInTable="CollectionTypeColumn" msprop:Generator_UserColumnName="CollectionType" type="xs:string" minOccurs="0" />
+              <xs:element name="ChequeNo" msprop:Generator_ColumnVarNameInTable="columnChequeNo" msprop:Generator_ColumnPropNameInRow="ChequeNo" msprop:Generator_ColumnPropNameInTable="ChequeNoColumn" msprop:Generator_UserColumnName="ChequeNo" type="xs:string" minOccurs="0" />
+              <xs:element name="ChequeDate" msprop:Generator_ColumnVarNameInTable="columnChequeDate" msprop:Generator_ColumnPropNameInRow="ChequeDate" msprop:Generator_ColumnPropNameInTable="ChequeDateColumn" msprop:Generator_UserColumnName="ChequeDate" type="xs:string" minOccurs="0" />
+              <xs:element name="BankName" msprop:Generator_ColumnVarNameInTable="columnBankName" msprop:Generator_ColumnPropNameInRow="BankName" msprop:Generator_ColumnPropNameInTable="BankNameColumn" msprop:Generator_UserColumnName="BankName" type="xs:string" minOccurs="0" />
+              <xs:element name="BillNo" msprop:Generator_ColumnVarNameInTable="columnBillNo" msprop:Generator_ColumnPropNameInRow="BillNo" msprop:Generator_ColumnPropNameInTable="BillNoColumn" msprop:Generator_UserColumnName="BillNo" type="xs:string" minOccurs="0" />
+              <xs:element name="BillDate" msprop:Generator_ColumnVarNameInTable="columnBillDate" msprop:Generator_ColumnPropNameInRow="BillDate" msprop:Generator_ColumnPropNameInTable="BillDateColumn" msprop:Generator_UserColumnName="BillDate" type="xs:string" minOccurs="0" />
+              <xs:element name="BillAmt" msprop:Generator_ColumnVarNameInTable="columnBillAmt" msprop:Generator_ColumnPropNameInRow="BillAmt" msprop:Generator_ColumnPropNameInTable="BillAmtColumn" msprop:Generator_UserColumnName="BillAmt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="BillTaxAmt" msprop:Generator_ColumnVarNameInTable="columnBillTaxAmt" msprop:Generator_ColumnPropNameInRow="BillTaxAmt" msprop:Generator_ColumnPropNameInTable="BillTaxAmtColumn" msprop:Generator_UserColumnName="BillTaxAmt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="GrossCollection" msprop:Generator_ColumnVarNameInTable="columnGrossCollection" msprop:Generator_ColumnPropNameInRow="GrossCollection" msprop:Generator_ColumnPropNameInTable="GrossCollectionColumn" msprop:Generator_UserColumnName="GrossCollection" type="xs:decimal" minOccurs="0" />
+              <xs:element name="NetCollection" msprop:Generator_ColumnVarNameInTable="columnNetCollection" msprop:Generator_ColumnPropNameInRow="NetCollection" msprop:Generator_ColumnPropNameInTable="NetCollectionColumn" msprop:Generator_UserColumnName="NetCollection" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Remarks" msprop:Generator_ColumnVarNameInTable="columnRemarks" msprop:Generator_ColumnPropNameInRow="Remarks" msprop:Generator_ColumnPropNameInTable="RemarksColumn" msprop:Generator_UserColumnName="Remarks" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

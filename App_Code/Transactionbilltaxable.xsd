@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Transactionbilltaxable" targetNamespace="http://tempuri.org/Transactionbilltaxable.xsd" xmlns:mstns="http://tempuri.org/Transactionbilltaxable.xsd" xmlns="http://tempuri.org/Transactionbilltaxable.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="ConnectionString_master" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString_master (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.ConnectionString_master.ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Transactionbilltaxable" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="Transactionbilltaxable" msprop:Generator_UserDSName="Transactionbilltaxable">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="StockLocation" msprop:Generator_ColumnVarNameInTable="columnStockLocation" msprop:Generator_ColumnPropNameInRow="StockLocation" msprop:Generator_ColumnPropNameInTable="StockLocationColumn" msprop:Generator_UserColumnName="StockLocation" type="xs:string" minOccurs="0" />
+              <xs:element name="Billno" msprop:Generator_ColumnVarNameInTable="columnBillno" msprop:Generator_ColumnPropNameInRow="Billno" msprop:Generator_ColumnPropNameInTable="BillnoColumn" msprop:Generator_UserColumnName="Billno" type="xs:string" minOccurs="0" />
+              <xs:element name="Billdate" msprop:Generator_ColumnVarNameInTable="columnBilldate" msprop:Generator_ColumnPropNameInRow="Billdate" msprop:Generator_ColumnPropNameInTable="BilldateColumn" msprop:Generator_UserColumnName="Billdate" type="xs:string" minOccurs="0" />
+              <xs:element name="Customercode" msprop:Generator_ColumnVarNameInTable="columnCustomercode" msprop:Generator_ColumnPropNameInRow="Customercode" msprop:Generator_ColumnPropNameInTable="CustomercodeColumn" msprop:Generator_UserColumnName="Customercode" type="xs:string" minOccurs="0" />
+              <xs:element name="Customername" msprop:Generator_ColumnVarNameInTable="columnCustomername" msprop:Generator_ColumnPropNameInRow="Customername" msprop:Generator_ColumnPropNameInTable="CustomernameColumn" msprop:Generator_UserColumnName="Customername" type="xs:string" minOccurs="0" />
+              <xs:element name="HQ" msprop:Generator_ColumnVarNameInTable="columnHQ" msprop:Generator_ColumnPropNameInRow="HQ" msprop:Generator_ColumnPropNameInTable="HQColumn" msprop:Generator_UserColumnName="HQ" type="xs:string" minOccurs="0" />
+              <xs:element name="Discount" msprop:Generator_ColumnVarNameInTable="columnDiscount" msprop:Generator_ColumnPropNameInRow="Discount" msprop:Generator_ColumnPropNameInTable="DiscountColumn" msprop:Generator_UserColumnName="Discount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Productname" msprop:Generator_ColumnVarNameInTable="columnProductname" msprop:Generator_ColumnPropNameInRow="Productname" msprop:Generator_ColumnPropNameInTable="ProductnameColumn" msprop:Generator_UserColumnName="Productname" type="xs:string" minOccurs="0" />
+              <xs:element name="Packsize" msprop:Generator_ColumnVarNameInTable="columnPacksize" msprop:Generator_ColumnPropNameInRow="Packsize" msprop:Generator_ColumnPropNameInTable="PacksizeColumn" msprop:Generator_UserColumnName="Packsize" type="xs:string" minOccurs="0" />
+              <xs:element name="Batchno" msprop:Generator_ColumnVarNameInTable="columnBatchno" msprop:Generator_ColumnPropNameInRow="Batchno" msprop:Generator_ColumnPropNameInTable="BatchnoColumn" msprop:Generator_UserColumnName="Batchno" type="xs:string" minOccurs="0" />
+              <xs:element name="Qtymade" msprop:Generator_ColumnVarNameInTable="columnQtymade" msprop:Generator_ColumnPropNameInRow="Qtymade" msprop:Generator_ColumnPropNameInTable="QtymadeColumn" msprop:Generator_UserColumnName="Qtymade" type="xs:decimal" minOccurs="0" />
+              <xs:element name="FreeQty" msprop:Generator_ColumnVarNameInTable="columnFreeQty" msprop:Generator_ColumnPropNameInRow="FreeQty" msprop:Generator_ColumnPropNameInTable="FreeQtyColumn" msprop:Generator_UserColumnName="FreeQty" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Billamount" msprop:Generator_ColumnVarNameInTable="columnBillamount" msprop:Generator_ColumnPropNameInRow="Billamount" msprop:Generator_ColumnPropNameInTable="BillamountColumn" msprop:Generator_UserColumnName="Billamount" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

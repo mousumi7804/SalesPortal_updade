@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ReportDataSet_FinalProductStock" targetNamespace="http://tempuri.org/ReportDataSet_FinalProductStock.xsd" xmlns:mstns="http://tempuri.org/ReportDataSet_FinalProductStock.xsd" xmlns="http://tempuri.org/ReportDataSet_FinalProductStock.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="MendineMasterdummyConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="MendineMasterdummyConnectionString (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.MendineMasterdummyConnectionString.ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dtFinalProductStockTableAdapter" GeneratorDataComponentClassName="dtFinalProductStockTableAdapter" Name="dtFinalProductStock" UserDataComponentName="dtFinalProductStockTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="MendineMasterdummyConnectionString (Web.config)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT SD.CompanyID, SD.StockDate, SD.StockItemName, SD.GodownName, SD.BatchName, SD.Quantity, SD.UOM, SD.Rate, SD.Amount * - 1 AS amount, SI.StockGroup
+FROM     TD_Txn_StockDetails AS SD INNER JOIN
+                  TD_Mst_StockItem AS SI ON SD.CompanyID = SI.CompanyID AND SD.StockItemName = SI.StockItemName
+WHERE  (SD.CompanyID = 2) AND (SI.StockGroup LIKE 'FINISH GOODS' OR
+                  SI.StockGroup LIKE 'IP-FG FOR WB EXCISE') AND (SD.GodownName LIKE 'Delivery Location') AND (SD.StockDate = '2020-06-30 00:00:00.000')</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="CompanyID" DataSetColumn="CompanyID" />
+              <Mapping SourceColumn="StockDate" DataSetColumn="StockDate" />
+              <Mapping SourceColumn="StockItemName" DataSetColumn="StockItemName" />
+              <Mapping SourceColumn="GodownName" DataSetColumn="GodownName" />
+              <Mapping SourceColumn="BatchName" DataSetColumn="BatchName" />
+              <Mapping SourceColumn="Quantity" DataSetColumn="Quantity" />
+              <Mapping SourceColumn="UOM" DataSetColumn="UOM" />
+              <Mapping SourceColumn="Rate" DataSetColumn="Rate" />
+              <Mapping SourceColumn="amount" DataSetColumn="amount" />
+              <Mapping SourceColumn="StockGroup" DataSetColumn="StockGroup" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ReportDataSet_FinalProductStock" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ReportDataSet_FinalProductStock" msprop:Generator_UserDSName="ReportDataSet_FinalProductStock">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtFinalProductStock" msprop:Generator_TableClassName="dtFinalProductStockDataTable" msprop:Generator_TableVarName="tabledtFinalProductStock" msprop:Generator_TablePropName="dtFinalProductStock" msprop:Generator_RowDeletingName="dtFinalProductStockRowDeleting" msprop:Generator_RowChangingName="dtFinalProductStockRowChanging" msprop:Generator_RowEvHandlerName="dtFinalProductStockRowChangeEventHandler" msprop:Generator_RowDeletedName="dtFinalProductStockRowDeleted" msprop:Generator_UserTableName="dtFinalProductStock" msprop:Generator_RowChangedName="dtFinalProductStockRowChanged" msprop:Generator_RowEvArgName="dtFinalProductStockRowChangeEvent" msprop:Generator_RowClassName="dtFinalProductStockRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CompanyID" msprop:Generator_ColumnVarNameInTable="columnCompanyID" msprop:Generator_ColumnPropNameInRow="CompanyID" msprop:Generator_ColumnPropNameInTable="CompanyIDColumn" msprop:Generator_UserColumnName="CompanyID" type="xs:int" />
+              <xs:element name="StockDate" msprop:Generator_ColumnVarNameInTable="columnStockDate" msprop:Generator_ColumnPropNameInRow="StockDate" msprop:Generator_ColumnPropNameInTable="StockDateColumn" msprop:Generator_UserColumnName="StockDate" type="xs:dateTime" />
+              <xs:element name="StockItemName" msprop:Generator_ColumnVarNameInTable="columnStockItemName" msprop:Generator_ColumnPropNameInRow="StockItemName" msprop:Generator_ColumnPropNameInTable="StockItemNameColumn" msprop:Generator_UserColumnName="StockItemName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="GodownName" msprop:Generator_ColumnVarNameInTable="columnGodownName" msprop:Generator_ColumnPropNameInRow="GodownName" msprop:Generator_ColumnPropNameInTable="GodownNameColumn" msprop:Generator_UserColumnName="GodownName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="BatchName" msprop:Generator_ColumnVarNameInTable="columnBatchName" msprop:Generator_ColumnPropNameInRow="BatchName" msprop:Generator_ColumnPropNameInTable="BatchNameColumn" msprop:Generator_UserColumnName="BatchName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Quantity" msprop:Generator_ColumnVarNameInTable="columnQuantity" msprop:Generator_ColumnPropNameInRow="Quantity" msprop:Generator_ColumnPropNameInTable="QuantityColumn" msprop:Generator_UserColumnName="Quantity" type="xs:decimal" minOccurs="0" />
+              <xs:element name="UOM" msprop:Generator_ColumnVarNameInTable="columnUOM" msprop:Generator_ColumnPropNameInRow="UOM" msprop:Generator_ColumnPropNameInTable="UOMColumn" msprop:Generator_UserColumnName="UOM" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Rate" msprop:Generator_ColumnVarNameInTable="columnRate" msprop:Generator_ColumnPropNameInRow="Rate" msprop:Generator_ColumnPropNameInTable="RateColumn" msprop:Generator_UserColumnName="Rate" type="xs:decimal" minOccurs="0" />
+              <xs:element name="amount" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnamount" msprop:Generator_ColumnPropNameInRow="amount" msprop:Generator_ColumnPropNameInTable="amountColumn" msprop:Generator_UserColumnName="amount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="StockGroup" msprop:Generator_ColumnVarNameInTable="columnStockGroup" msprop:Generator_ColumnPropNameInRow="StockGroup" msprop:Generator_ColumnPropNameInTable="StockGroupColumn" msprop:Generator_UserColumnName="StockGroup" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

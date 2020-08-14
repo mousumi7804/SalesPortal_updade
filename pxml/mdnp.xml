@@ -1,0 +1,3053 @@
+<article>
+  <para>
+    <tbody>
+      <row>
+        <entry>
+          <para>Order No</para>
+        </entry>
+        <entry>
+          <para>Order Date</para>
+        </entry>
+        <entry>
+          <para>Order Series</para>
+        </entry>
+        <entry>
+          <para>Party Name</para>
+        </entry>
+        <entry>
+          <para>Party Code</para>
+        </entry>
+        <entry>
+          <para>Item Name</para>
+        </entry>
+        <entry>
+          <para>Item Code</para>
+        </entry>
+        <entry>
+          <para>Quantity</para>
+        </entry>
+        <entry>
+          <para>Remarks</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87562-Asoktaru Maity</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>ASOKE MEDICAL STORE </para>
+        </entry>
+        <entry>
+          <para>MDNP-A11303</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>19</para>
+        </entry>
+        <entry>
+          <para>OK </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87562-Asoktaru Maity</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>ASOKE MEDICAL STORE </para>
+        </entry>
+        <entry>
+          <para>MDNP-A11303</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+        <entry>
+          <para>OK </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87562-Asoktaru Maity</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>ASOKE MEDICAL STORE </para>
+        </entry>
+        <entry>
+          <para>MDNP-A11303</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>25</para>
+        </entry>
+        <entry>
+          <para>OK </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87562-Asoktaru Maity</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>ASOKE MEDICAL STORE </para>
+        </entry>
+        <entry>
+          <para>MDNP-A11303</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS</para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+        <entry>
+          <para>OK </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87564-Prasanta Dutta</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>BASANTI RECOVERY </para>
+        </entry>
+        <entry>
+          <para>MDNP-B10696</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87565-PRANAB BERA</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>BINDUSA MEDICAL </para>
+        </entry>
+        <entry>
+          <para>MDNP-B10984</para>
+        </entry>
+        <entry>
+          <para>MEPLON RED TABLETS</para>
+        </entry>
+        <entry>
+          <para>M015</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87565-PRANAB BERA</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>BINDUSA MEDICAL </para>
+        </entry>
+        <entry>
+          <para>MDNP-B10984</para>
+        </entry>
+        <entry>
+          <para>PAINTEX</para>
+        </entry>
+        <entry>
+          <para>P001</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87566-SANJU DE</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>BAPPA &amp;APPA MEDICAL STORES </para>
+        </entry>
+        <entry>
+          <para>MDNP-B11079</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>25</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87567-Asoktaru Maity</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>BHUBAN MEDICAL </para>
+        </entry>
+        <entry>
+          <para>MDNP-B11274</para>
+        </entry>
+        <entry>
+          <para>LULICONAZOLE (10 GMS)</para>
+        </entry>
+        <entry>
+          <para>L003</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+        <entry>
+          <para>OK </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87567-Asoktaru Maity</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>BHUBAN MEDICAL </para>
+        </entry>
+        <entry>
+          <para>MDNP-B11274</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>4</para>
+        </entry>
+        <entry>
+          <para>OK </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87568-Asoktaru Maity</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>BERA MEDICAL STORE </para>
+        </entry>
+        <entry>
+          <para>MDNP-B11364</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>19</para>
+        </entry>
+        <entry>
+          <para>OK </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87569-Prasanta Dutta</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>BABA LOKENATH MEDICAL STORES </para>
+        </entry>
+        <entry>
+          <para>MDNP-B11436</para>
+        </entry>
+        <entry>
+          <para>PEPTANIL PDSR</para>
+        </entry>
+        <entry>
+          <para>P007</para>
+        </entry>
+        <entry>
+          <para>50</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87571-Sabyasachi Mahanty</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>BOXI MEDICAL</para>
+        </entry>
+        <entry>
+          <para>MDNP-B12071</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87573-Prasanta Dutta</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>CHOWDHURY MEDICAL STORES </para>
+        </entry>
+        <entry>
+          <para>MDNP-C10396</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87573-Prasanta Dutta</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>CHOWDHURY MEDICAL STORES </para>
+        </entry>
+        <entry>
+          <para>MDNP-C10396</para>
+        </entry>
+        <entry>
+          <para>PAINTEX</para>
+        </entry>
+        <entry>
+          <para>P001</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87574-Ajoy Kumar Bera</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>CHANDRA PHARMACY </para>
+        </entry>
+        <entry>
+          <para>MDNP-C10705</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87579-Panchanan Das</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>DAMODAR PHARMECY</para>
+        </entry>
+        <entry>
+          <para>MDNP-D13378</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+        <entry>
+          <para>Ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87579-Panchanan Das</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>DAMODAR PHARMECY</para>
+        </entry>
+        <entry>
+          <para>MDNP-D13378</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+        <entry>
+          <para>Ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87579-Panchanan Das</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>DAMODAR PHARMECY</para>
+        </entry>
+        <entry>
+          <para>MDNP-D13378</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+        <entry>
+          <para>Ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87579-Panchanan Das</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>DAMODAR PHARMECY</para>
+        </entry>
+        <entry>
+          <para>MDNP-D13378</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS</para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+        <entry>
+          <para>Ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87579-Panchanan Das</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>DAMODAR PHARMECY</para>
+        </entry>
+        <entry>
+          <para>MDNP-D13378</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+        <entry>
+          <para>Ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87580-SANJU DE</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>M/S MRIMANAY PHARMACY</para>
+        </entry>
+        <entry>
+          <para>MDNP-FJ017485</para>
+        </entry>
+        <entry>
+          <para>TABAZI</para>
+        </entry>
+        <entry>
+          <para>T001</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87580-SANJU DE</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>M/S MRIMANAY PHARMACY</para>
+        </entry>
+        <entry>
+          <para>MDNP-FJ017485</para>
+        </entry>
+        <entry>
+          <para>NILI PAIN TABLETS</para>
+        </entry>
+        <entry>
+          <para>N003</para>
+        </entry>
+        <entry>
+          <para>25</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87581-Tapan Samanta</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>NRISINGHA MEDICAL </para>
+        </entry>
+        <entry>
+          <para>MDNP-FJ017904</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87582-Raju Samanta</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>BANGAL MEDICAL</para>
+        </entry>
+        <entry>
+          <para>MDNP-FJ018152</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>50</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87582-Raju Samanta</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>BANGAL MEDICAL</para>
+        </entry>
+        <entry>
+          <para>MDNP-FJ018152</para>
+        </entry>
+        <entry>
+          <para>LOK AR MDT</para>
+        </entry>
+        <entry>
+          <para>L002</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87583-Asoktaru Maity</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>MOTHER MEDICAL</para>
+        </entry>
+        <entry>
+          <para>MDNP-FJ018477</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>50</para>
+        </entry>
+        <entry>
+          <para>OK </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87585-Asoktaru Maity</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>METLA PHARMACY</para>
+        </entry>
+        <entry>
+          <para>MDNP-FJ018494</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>25</para>
+        </entry>
+        <entry>
+          <para>OK </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87587-Tapan Samanta</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>NRISINGHA MEDICAL </para>
+        </entry>
+        <entry>
+          <para>MDNP-FJ027320</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87588-SANJU DE</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>PURNIMA  PHARMACY</para>
+        </entry>
+        <entry>
+          <para>MDNP-FJ364585</para>
+        </entry>
+        <entry>
+          <para>MENSEDON</para>
+        </entry>
+        <entry>
+          <para>M009</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87589-AMIT SAHOO</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>KIRAN PHARMACY</para>
+        </entry>
+        <entry>
+          <para>MDNP-FJ365196</para>
+        </entry>
+        <entry>
+          <para>LULICONAZOLE (10 GMS)</para>
+        </entry>
+        <entry>
+          <para>L003</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87589-AMIT SAHOO</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>KIRAN PHARMACY</para>
+        </entry>
+        <entry>
+          <para>MDNP-FJ365196</para>
+        </entry>
+        <entry>
+          <para>NILI PAIN GEL</para>
+        </entry>
+        <entry>
+          <para>N002</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87590-SUMIT RANA</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>GHOSH PHARMACY </para>
+        </entry>
+        <entry>
+          <para>MDNP-G10379</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>19</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87590-SUMIT RANA</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>GHOSH PHARMACY </para>
+        </entry>
+        <entry>
+          <para>MDNP-G10379</para>
+        </entry>
+        <entry>
+          <para>TABAZI</para>
+        </entry>
+        <entry>
+          <para>T001</para>
+        </entry>
+        <entry>
+          <para>20</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87590-SUMIT RANA</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>GHOSH PHARMACY </para>
+        </entry>
+        <entry>
+          <para>MDNP-G10379</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87591-Panchanan Das</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>GITA PHARMECY </para>
+        </entry>
+        <entry>
+          <para>MDNP-G10624</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>100</para>
+        </entry>
+        <entry>
+          <para>Ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87591-Panchanan Das</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>GITA PHARMECY </para>
+        </entry>
+        <entry>
+          <para>MDNP-G10624</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>19</para>
+        </entry>
+        <entry>
+          <para>Ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87593-Samith Lodh</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>GITA PHARMACY </para>
+        </entry>
+        <entry>
+          <para>MDNP-G10942</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>100</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87597-SANJU DE</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>ISMAIL MEDICAL CENTER </para>
+        </entry>
+        <entry>
+          <para>MDNP-I10104</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>50</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87599-SUMIT RANA</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>JOGENDRA MEDICAL ST  </para>
+        </entry>
+        <entry>
+          <para>MDNP-J10395</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87599-SUMIT RANA</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>JOGENDRA MEDICAL ST  </para>
+        </entry>
+        <entry>
+          <para>MDNP-J10395</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>19</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87601-Ajoy Kumar Bera</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>LAXMI MEDICAL </para>
+        </entry>
+        <entry>
+          <para>MDNP-L10943</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>13</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87605-Asoktaru Maity</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>MANNA MEDICAL STORE </para>
+        </entry>
+        <entry>
+          <para>MDNP-M12920</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+        <entry>
+          <para>OK </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87607-SABYASACHI SARKAR</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>MOHAN MEDICAL </para>
+        </entry>
+        <entry>
+          <para>MDNP-M13614</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87607-SABYASACHI SARKAR</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>MOHAN MEDICAL </para>
+        </entry>
+        <entry>
+          <para>MDNP-M13614</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87607-SABYASACHI SARKAR</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>MOHAN MEDICAL </para>
+        </entry>
+        <entry>
+          <para>MDNP-M13614</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87607-SABYASACHI SARKAR</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>MOHAN MEDICAL </para>
+        </entry>
+        <entry>
+          <para>MDNP-M13614</para>
+        </entry>
+        <entry>
+          <para>CARMOLAX ROOTS [POWDER]</para>
+        </entry>
+        <entry>
+          <para>C015</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87609-PRANAB BERA</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>MAA ANJALI MEDICAL </para>
+        </entry>
+        <entry>
+          <para>MDNP-M14542</para>
+        </entry>
+        <entry>
+          <para>MEPLON RED TABLETS</para>
+        </entry>
+        <entry>
+          <para>M015</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87611-Samith Lodh</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>M/S GOSWAMI MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>MDNP-M15073</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>18</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87611-Samith Lodh</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>M/S GOSWAMI MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>MDNP-M15073</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>25</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87611-Samith Lodh</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>M/S GOSWAMI MEDICAL HALL</para>
+        </entry>
+        <entry>
+          <para>MDNP-M15073</para>
+        </entry>
+        <entry>
+          <para>AMIRID-O TABLETS</para>
+        </entry>
+        <entry>
+          <para>A009</para>
+        </entry>
+        <entry>
+          <para>20</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87613-Asoktaru Maity</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>NEW ISLAMIA MEDICAL STORE </para>
+        </entry>
+        <entry>
+          <para>MDNP-N10825</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME DROPS</para>
+        </entry>
+        <entry>
+          <para>C004</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+        <entry>
+          <para>OK </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87614-Asoktaru Maity</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>NABAYUG MEDICAL HALL </para>
+        </entry>
+        <entry>
+          <para>MDNP-N10826</para>
+        </entry>
+        <entry>
+          <para>PAINTEX</para>
+        </entry>
+        <entry>
+          <para>P001</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+        <entry>
+          <para>OK </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87621-Raju Samanta</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>RANA MEDICAL STORES </para>
+        </entry>
+        <entry>
+          <para>MDNP-R10085</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87621-Raju Samanta</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>RANA MEDICAL STORES </para>
+        </entry>
+        <entry>
+          <para>MDNP-R10085</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>25</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87623-PRANAB BERA</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>M/S RATNA MEDICAL HALL </para>
+        </entry>
+        <entry>
+          <para>MDNP-R10531</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS</para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87624-SUMIT RANA</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>RAHAMAN MEDICAL ST </para>
+        </entry>
+        <entry>
+          <para>MDNP-R10684</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>25</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87625-Prasanta Dutta</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>RAJ MEDICAL STORES </para>
+        </entry>
+        <entry>
+          <para>MDNP-R10716</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>18</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87625-Prasanta Dutta</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>RAJ MEDICAL STORES </para>
+        </entry>
+        <entry>
+          <para>MDNP-R10716</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>38</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87625-Prasanta Dutta</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>RAJ MEDICAL STORES </para>
+        </entry>
+        <entry>
+          <para>MDNP-R10716</para>
+        </entry>
+        <entry>
+          <para>PEPTANIL PDSR</para>
+        </entry>
+        <entry>
+          <para>P007</para>
+        </entry>
+        <entry>
+          <para>50</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87635-AMIT SAHOO</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>SASMAL MEDICAL STORES</para>
+        </entry>
+        <entry>
+          <para>MDNP-S12611</para>
+        </entry>
+        <entry>
+          <para>LULICONAZOLE (10 GMS)</para>
+        </entry>
+        <entry>
+          <para>L003</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87638-Asoktaru Maity</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>SRI HARI PHARMACY </para>
+        </entry>
+        <entry>
+          <para>MDNP-S13362</para>
+        </entry>
+        <entry>
+          <para>CATAREX LS</para>
+        </entry>
+        <entry>
+          <para>C017</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+        <entry>
+          <para>OK </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87641-Panchanan Das</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>SANJIBONI </para>
+        </entry>
+        <entry>
+          <para>MDNP-S14959</para>
+        </entry>
+        <entry>
+          <para>HELMOPAR TABLET</para>
+        </entry>
+        <entry>
+          <para>H003</para>
+        </entry>
+        <entry>
+          <para>45</para>
+        </entry>
+        <entry>
+          <para>Ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87645-PRANAB BERA</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-MDNP</para>
+        </entry>
+        <entry>
+          <para>THE LIFE THREE</para>
+        </entry>
+        <entry>
+          <para>MDNP-T10887</para>
+        </entry>
+        <entry>
+          <para>MEPLON RED TABLETS</para>
+        </entry>
+        <entry>
+          <para>M015</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87650-Bikash Bhunia</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>BAKUL MEDICAL </para>
+        </entry>
+        <entry>
+          <para>TMLK-B10160</para>
+        </entry>
+        <entry>
+          <para>HELMOPAR SUSPENSION</para>
+        </entry>
+        <entry>
+          <para>H002</para>
+        </entry>
+        <entry>
+          <para>30</para>
+        </entry>
+        <entry>
+          <para>Ok </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87651-Dilip Kumar Poali</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>BHOWMICK MEDICAL</para>
+        </entry>
+        <entry>
+          <para>TMLK-B10697</para>
+        </entry>
+        <entry>
+          <para>SPIRIT OF ETHER 450 ML</para>
+        </entry>
+        <entry>
+          <para>S002</para>
+        </entry>
+        <entry>
+          <para>1</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87670-Bikash Santara</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>PRIYA MEDICAL STORE</para>
+        </entry>
+        <entry>
+          <para>TMLK-FJ018279</para>
+        </entry>
+        <entry>
+          <para>MEPLON RED SUSPENSION</para>
+        </entry>
+        <entry>
+          <para>M016</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87670-Bikash Santara</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>PRIYA MEDICAL STORE</para>
+        </entry>
+        <entry>
+          <para>TMLK-FJ018279</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87670-Bikash Santara</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>PRIYA MEDICAL STORE</para>
+        </entry>
+        <entry>
+          <para>TMLK-FJ018279</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>3</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87673-Buddhadeb Bera</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>HAZRA JIBON SURAKSHYA</para>
+        </entry>
+        <entry>
+          <para>TMLK-FJ018746</para>
+        </entry>
+        <entry>
+          <para>PAINTEX</para>
+        </entry>
+        <entry>
+          <para>P001</para>
+        </entry>
+        <entry>
+          <para>28</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87675-Pradip Jana</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>DEY PHARMACY</para>
+        </entry>
+        <entry>
+          <para>TMLK-FJ025561</para>
+        </entry>
+        <entry>
+          <para>GROW-LY</para>
+        </entry>
+        <entry>
+          <para>G003</para>
+        </entry>
+        <entry>
+          <para>25</para>
+        </entry>
+        <entry>
+          <para>ok </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87675-Pradip Jana</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>DEY PHARMACY</para>
+        </entry>
+        <entry>
+          <para>TMLK-FJ025561</para>
+        </entry>
+        <entry>
+          <para>HELMOPAR TABLET</para>
+        </entry>
+        <entry>
+          <para>H003</para>
+        </entry>
+        <entry>
+          <para>45</para>
+        </entry>
+        <entry>
+          <para>ok </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87676-Bikash Santara</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>AGRAYA NIKETAN</para>
+        </entry>
+        <entry>
+          <para>TMLK-FJ025585</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87682-Buddhadeb Bera</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>HIJILI MEDICAL HALL </para>
+        </entry>
+        <entry>
+          <para>TMLK-H10194</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87693-Maheswar Daloi</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>JANA MEDICAL</para>
+        </entry>
+        <entry>
+          <para>TMLK-J11293</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>19</para>
+        </entry>
+        <entry>
+          <para>OK </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87695-Dilip Kumar Poali</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>KOLAGHAT MEDICALS </para>
+        </entry>
+        <entry>
+          <para>TMLK-K10436</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87695-Dilip Kumar Poali</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>KOLAGHAT MEDICALS </para>
+        </entry>
+        <entry>
+          <para>TMLK-K10436</para>
+        </entry>
+        <entry>
+          <para>AMIRID-O TABLETS</para>
+        </entry>
+        <entry>
+          <para>A009</para>
+        </entry>
+        <entry>
+          <para>20</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87699-Bikash Bhunia</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>LAXMI NARAYAN MEDICAL </para>
+        </entry>
+        <entry>
+          <para>TMLK-L10432</para>
+        </entry>
+        <entry>
+          <para>PAINTEX</para>
+        </entry>
+        <entry>
+          <para>P001</para>
+        </entry>
+        <entry>
+          <para>6</para>
+        </entry>
+        <entry>
+          <para>Ok </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87700-Saikat Maity</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>LIFE CARE </para>
+        </entry>
+        <entry>
+          <para>TMLK-L10442</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>25</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87700-Saikat Maity</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>LIFE CARE </para>
+        </entry>
+        <entry>
+          <para>TMLK-L10442</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>19</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87700-Saikat Maity</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>LIFE CARE </para>
+        </entry>
+        <entry>
+          <para>TMLK-L10442</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME NXG</para>
+        </entry>
+        <entry>
+          <para>C019</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87704-Buddhadeb Bera</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>LAKSHMI NARAYAN MEDICAL </para>
+        </entry>
+        <entry>
+          <para>TMLK-L11083</para>
+        </entry>
+        <entry>
+          <para>PEPTANIL RDSR</para>
+        </entry>
+        <entry>
+          <para>P008</para>
+        </entry>
+        <entry>
+          <para>30</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87706-Buddhadeb Bera</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>MAA KALI PHARMACY </para>
+        </entry>
+        <entry>
+          <para>TMLK-M11552</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87710-Partha Pratim Das</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>MAA MONI MEDICAL STORES </para>
+        </entry>
+        <entry>
+          <para>TMLK-M13305</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87710-Partha Pratim Das</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>MAA MONI MEDICAL STORES </para>
+        </entry>
+        <entry>
+          <para>TMLK-M13305</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>25</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87714-NISHI KANTA PRADHAN</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>MAITY MEDICAL </para>
+        </entry>
+        <entry>
+          <para>TMLK-M14206</para>
+        </entry>
+        <entry>
+          <para>AMIRID TABLETS</para>
+        </entry>
+        <entry>
+          <para>A007</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87718-Pradip Jana</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>MANDAL MEDICAL</para>
+        </entry>
+        <entry>
+          <para>TMLK-M14811</para>
+        </entry>
+        <entry>
+          <para>CARMOLAX ROOTS [POWDER]</para>
+        </entry>
+        <entry>
+          <para>C015</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+        <entry>
+          <para>RACK  DISPLAY </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87718-Pradip Jana</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>MANDAL MEDICAL</para>
+        </entry>
+        <entry>
+          <para>TMLK-M14811</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME ROOTS</para>
+        </entry>
+        <entry>
+          <para>C021</para>
+        </entry>
+        <entry>
+          <para>21</para>
+        </entry>
+        <entry>
+          <para>RACK  DISPLAY </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87718-Pradip Jana</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>MANDAL MEDICAL</para>
+        </entry>
+        <entry>
+          <para>TMLK-M14811</para>
+        </entry>
+        <entry>
+          <para>MENSEDON</para>
+        </entry>
+        <entry>
+          <para>M009</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+        <entry>
+          <para>RACK  DISPLAY </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87733-OLIVIA GHOSH</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>PADMABATI MEDICAL HALL </para>
+        </entry>
+        <entry>
+          <para>TMLK-P10576</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>9</para>
+        </entry>
+        <entry>
+          <para>
+          </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87733-OLIVIA GHOSH</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>PADMABATI MEDICAL HALL </para>
+        </entry>
+        <entry>
+          <para>TMLK-P10576</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>19</para>
+        </entry>
+        <entry>
+          <para>
+          </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87737-Dilip Kumar Poali</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>PATRA MEDI STORE </para>
+        </entry>
+        <entry>
+          <para>TMLK-P11082</para>
+        </entry>
+        <entry>
+          <para>AMIRID-O TABLETS</para>
+        </entry>
+        <entry>
+          <para>A009</para>
+        </entry>
+        <entry>
+          <para>20</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87737-Dilip Kumar Poali</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>PATRA MEDI STORE </para>
+        </entry>
+        <entry>
+          <para>TMLK-P11082</para>
+        </entry>
+        <entry>
+          <para>CARMOLAX ROOTS [POWDER]</para>
+        </entry>
+        <entry>
+          <para>C015</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87740-Dilip Kumar Poali</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>PARISEBA MEDICAL HALL </para>
+        </entry>
+        <entry>
+          <para>TMLK-P11562</para>
+        </entry>
+        <entry>
+          <para>AMIRID-O TABLETS</para>
+        </entry>
+        <entry>
+          <para>A009</para>
+        </entry>
+        <entry>
+          <para>20</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87745-Barun Bera</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>RELIE MEDICAL HALL </para>
+        </entry>
+        <entry>
+          <para>TMLK-R10789</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 100 ML</para>
+        </entry>
+        <entry>
+          <para>C003</para>
+        </entry>
+        <entry>
+          <para>18</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87747-Pradip Jana</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>RAMEN MEDICAL STORES </para>
+        </entry>
+        <entry>
+          <para>TMLK-R11016</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>19</para>
+        </entry>
+        <entry>
+          <para>ok </para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87748-Pradip Jana</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>RAMKRISHNA PHARMECY </para>
+        </entry>
+        <entry>
+          <para>TMLK-R11033</para>
+        </entry>
+        <entry>
+          <para>LULICONAZOLE (10 GMS)</para>
+        </entry>
+        <entry>
+          <para>L003</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87750-Shyamal Jana</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>ROHINI PHARMACY </para>
+        </entry>
+        <entry>
+          <para>TMLK-R11501</para>
+        </entry>
+        <entry>
+          <para>LULICONAZOLE (10 GMS)</para>
+        </entry>
+        <entry>
+          <para>L003</para>
+        </entry>
+        <entry>
+          <para>10</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87750-Shyamal Jana</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>ROHINI PHARMACY </para>
+        </entry>
+        <entry>
+          <para>TMLK-R11501</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME TRAVELLER'S PACK</para>
+        </entry>
+        <entry>
+          <para>C024</para>
+        </entry>
+        <entry>
+          <para>5</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87756-Ganesh Adak</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>M/S NEW SASMAL MEDICIN TRADERS </para>
+        </entry>
+        <entry>
+          <para>TMLK-S11228</para>
+        </entry>
+        <entry>
+          <para>TABAZI</para>
+        </entry>
+        <entry>
+          <para>T001</para>
+        </entry>
+        <entry>
+          <para>20</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87759-Pradip Kumar Roy</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>SHANKAR PHARMACY</para>
+        </entry>
+        <entry>
+          <para>TMLK-S11730</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>25</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87767-Buddhadeb Bera</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>SINDHU DRUG HOUSE </para>
+        </entry>
+        <entry>
+          <para>TMLK-S14154</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 450 ML</para>
+        </entry>
+        <entry>
+          <para>C006</para>
+        </entry>
+        <entry>
+          <para>2</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87767-Buddhadeb Bera</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>SINDHU DRUG HOUSE </para>
+        </entry>
+        <entry>
+          <para>TMLK-S14154</para>
+        </entry>
+        <entry>
+          <para>CARMOZYME 200 ML</para>
+        </entry>
+        <entry>
+          <para>C005</para>
+        </entry>
+        <entry>
+          <para>14</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+      <row>
+        <entry>
+          <para>87774-Buddhadeb Bera</para>
+        </entry>
+        <entry>
+          <para>2019-09-12</para>
+        </entry>
+        <entry>
+          <para>ORD-TMLK</para>
+        </entry>
+        <entry>
+          <para>USHA PHARMACY </para>
+        </entry>
+        <entry>
+          <para>TMLK-U10146</para>
+        </entry>
+        <entry>
+          <para>MENOLATE TABLETS</para>
+        </entry>
+        <entry>
+          <para>M014</para>
+        </entry>
+        <entry>
+          <para>20</para>
+        </entry>
+        <entry>
+          <para>ok</para>
+        </entry>
+      </row>
+    </tbody>
+  </para>
+</article>
